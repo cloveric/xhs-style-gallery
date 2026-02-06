@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="520" viewBox="0 0 400 520">
+  <rect width="400" height="520" fill="#1a1a2e"/>
+  <circle cx="200" cy="200" r="60" fill="none" stroke="#e94560" stroke-width="1" opacity="0.4"/>
+  <circle cx="200" cy="200" r="40" fill="none" stroke="#e94560" stroke-width="0.5" opacity="0.3"/>
+  <circle cx="200" cy="200" r="80" fill="none" stroke="#e94560" stroke-width="0.5" opacity="0.2"/>
+  <line x1="140" y1="200" x2="260" y2="200" stroke="#e94560" stroke-width="0.5" opacity="0.3"/>
+  <line x1="200" y1="140" x2="200" y2="260" stroke="#e94560" stroke-width="0.5" opacity="0.3"/>
+  <circle cx="200" cy="200" r="5" fill="#e94560" opacity="0.6"/>
+  <text x="200" y="330" text-anchor="middle" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="28" fill="#e94560" font-weight="bold">超写实</text>
+  <text x="200" y="370" text-anchor="middle" font-family="Inter, sans-serif" font-size="18" fill="#e94560" opacity="0.7">Ultra Realistic</text>
+</svg>

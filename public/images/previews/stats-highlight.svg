@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 520" width="400" height="520">
+  <rect width="400" height="520" fill="#f8f9fa" rx="12"/>
+  
+  <rect x="24" y="20" width="352" height="478" rx="14" fill="white" stroke="#e5e7eb" stroke-width="1"/>
+  <rect x="50" y="44" width="200" height="18" rx="4" fill="#6366f1" opacity="0.8"/>
+  <rect x="44" y="84" width="152" height="120" rx="14" fill="#eef2ff" stroke="#c7d2fe" stroke-width="1"/>
+  <text x="120" y="132" text-anchor="middle" font-family="system-ui,sans-serif" font-size="40" fill="#6366f1" font-weight="bold">87%</text>
+  <rect x="82" y="152" width="76" height="8" rx="3" fill="#c7d2fe"/>
+  <rect x="88" y="168" width="64" height="6" rx="3" fill="#e0e7ff"/>
+  <rect x="204" y="84" width="152" height="120" rx="14" fill="#fef3c7" stroke="#fde68a" stroke-width="1"/>
+  <text x="280" y="132" text-anchor="middle" font-family="system-ui,sans-serif" font-size="40" fill="#d97706" font-weight="bold">2.4M</text>
+  <rect x="242" y="152" width="76" height="8" rx="3" fill="#fde68a"/>
+  <rect x="248" y="168" width="64" height="6" rx="3" fill="#fef9e7"/>
+  <rect x="44" y="220" width="152" height="120" rx="14" fill="#dcfce7" stroke="#a7f3d0" stroke-width="1"/>
+  <text x="120" y="268" text-anchor="middle" font-family="system-ui,sans-serif" font-size="40" fill="#16a34a" font-weight="bold">156</text>
+  <rect x="82" y="288" width="76" height="8" rx="3" fill="#a7f3d0"/>
+  <rect x="88" y="304" width="64" height="6" rx="3" fill="#dcfce7"/>
+  <rect x="204" y="220" width="152" height="120" rx="14" fill="#fce7f3" stroke="#fbcfe8" stroke-width="1"/>
+  <text x="280" y="268" text-anchor="middle" font-family="system-ui,sans-serif" font-size="40" fill="#db2777" font-weight="bold">4.8</text>
+  <rect x="253" y="278" width="54" height="8" rx="3" fill="#fbcfe8"/>
+  <text x="280" y="274" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#ec4899">★★★★★</text>
+  <rect x="248" y="304" width="64" height="6" rx="3" fill="#fce7f3"/>
+  <rect x="44" y="360" width="312" height="100" rx="14" fill="#f8f9fa" stroke="#e5e7eb" stroke-width="1"/>
+  <rect x="66" y="380" width="120" height="10" rx="3" fill="#c5cdd6"/>
+  <rect x="66" y="400" width="270" height="40" rx="8" fill="#eef2ff"/>
+  <text x="200" y="510" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" fill="#9ca3af">Stats Highlight</text>
+  
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="520" viewBox="0 0 400 520">
+  <rect width="400" height="520" fill="#f9f9f9"/>
+  <ellipse cx="200" cy="380" rx="100" ry="15" fill="#e8e8e8"/>
+  <rect x="160" y="180" width="80" height="180" rx="8" fill="#e0e0e0"/>
+  <rect x="165" y="185" width="70" height="170" rx="6" fill="#eeeeee"/>
+  <circle cx="200" cy="160" r="5" fill="#d0d0d0"/>
+  <text x="200" y="440" text-anchor="middle" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="28" fill="#333333" font-weight="bold">产品摄影</text>
+  <text x="200" y="475" text-anchor="middle" font-family="Inter, sans-serif" font-size="18" fill="#333333" opacity="0.7">Product Photo</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="520" viewBox="0 0 400 520">
+  <rect width="400" height="520" fill="#c4b7a6"/>
+  <rect x="80" y="120" width="100" height="130" rx="4" fill="#b8a99a" opacity="0.6"/>
+  <rect x="220" y="150" width="90" height="100" rx="4" fill="#a89888" opacity="0.5"/>
+  <circle cx="150" cy="400" r="35" fill="#d4c7b6" opacity="0.4"/>
+  <rect x="250" y="370" width="70" height="70" rx="4" fill="#bfb2a1" opacity="0.4"/>
+  <text x="200" y="270" text-anchor="middle" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="28" fill="#5c524a" font-weight="bold">莫兰迪风</text>
+  <text x="200" y="310" text-anchor="middle" font-family="Inter, sans-serif" font-size="18" fill="#5c524a" opacity="0.7">Morandi</text>
+</svg>

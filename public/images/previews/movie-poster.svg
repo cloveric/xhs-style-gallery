@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="520" viewBox="0 0 400 520">
+  <rect width="400" height="520" fill="#0d0d0d"/>
+  <rect x="60" y="60" width="280" height="400" fill="none" stroke="#c0392b" stroke-width="1" opacity="0.3"/>
+  <circle cx="200" cy="200" r="40" fill="none" stroke="#c0392b" stroke-width="2" opacity="0.4"/>
+  <line x1="175" y1="185" x2="230" y2="210" stroke="#c0392b" stroke-width="2" opacity="0.4"/>
+  <polygon points="185,180 230,205 185,220" fill="#c0392b" opacity="0.3"/>
+  <text x="200" y="310" text-anchor="middle" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="28" fill="#c0392b" font-weight="bold">电影海报</text>
+  <text x="200" y="350" text-anchor="middle" font-family="Inter, sans-serif" font-size="18" fill="#c0392b" opacity="0.7">Movie Poster</text>
+  <line x1="100" y1="390" x2="300" y2="390" stroke="#c0392b" stroke-width="0.5" opacity="0.3"/>
+  <text x="200" y="415" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" fill="#c0392b" opacity="0.3" letter-spacing="3">COMING SOON</text>
+</svg>

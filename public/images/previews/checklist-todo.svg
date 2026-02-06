@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 520" width="400" height="520">
+  <rect width="400" height="520" fill="#f8f9fa" rx="12"/>
+  
+  <rect x="30" y="24" width="340" height="460" rx="14" fill="white" stroke="#e5e7eb" stroke-width="1"/>
+  <rect x="50" y="44" width="180" height="16" rx="4" fill="#4f7df0" opacity="0.8"/>
+  <rect x="50" y="72" width="120" height="10" rx="3" fill="#d0d5db"/>
+  
+    <rect x="50" y="108" width="22" height="22" rx="6" fill="#4f7df0" stroke="#4f7df0" stroke-width="1.5"/>
+    <polyline points="56,119 60,124 68,115" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="84" y="112" width="203" height="12" rx="4" fill="#c5cdd6"/>
+    <line x1="84" y1="118" x2="265" y2="118" stroke="#b0b8c4" stroke-width="1.5"/>
+    
+    <rect x="50" y="158" width="22" height="22" rx="6" fill="#4f7df0" stroke="#4f7df0" stroke-width="1.5"/>
+    <polyline points="56,169 60,174 68,165" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="84" y="162" width="207" height="12" rx="4" fill="#c5cdd6"/>
+    <line x1="84" y1="168" x2="266" y2="168" stroke="#b0b8c4" stroke-width="1.5"/>
+    
+    <rect x="50" y="208" width="22" height="22" rx="6" fill="#4f7df0" stroke="#4f7df0" stroke-width="1.5"/>
+    <polyline points="56,219 60,224 68,215" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="84" y="212" width="169" height="12" rx="4" fill="#c5cdd6"/>
+    <line x1="84" y1="218" x2="267" y2="218" stroke="#b0b8c4" stroke-width="1.5"/>
+    
+    <rect x="50" y="258" width="22" height="22" rx="6" fill="white" stroke="#d0d5db" stroke-width="1.5"/>
+    
+    <rect x="84" y="262" width="191" height="12" rx="4" fill="#e4e7eb"/>
+    
+    
+    <rect x="50" y="308" width="22" height="22" rx="6" fill="white" stroke="#d0d5db" stroke-width="1.5"/>
+    
+    <rect x="84" y="312" width="198" height="12" rx="4" fill="#e4e7eb"/>
+    
+    
+    <rect x="50" y="358" width="22" height="22" rx="6" fill="white" stroke="#d0d5db" stroke-width="1.5"/>
+    
+    <rect x="84" y="362" width="185" height="12" rx="4" fill="#e4e7eb"/>
+    
+    
+    <rect x="50" y="408" width="22" height="22" rx="6" fill="white" stroke="#d0d5db" stroke-width="1.5"/>
+    
+    <rect x="84" y="412" width="200" height="12" rx="4" fill="#e4e7eb"/>
+    
+    
+  <text x="200" y="500" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" fill="#9ca3af">Checklist Todo</text>
+  
+</svg>

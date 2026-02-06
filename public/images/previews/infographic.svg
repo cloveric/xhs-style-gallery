@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="520" viewBox="0 0 400 520">
+  <rect width="400" height="520" fill="#2c3e50"/>
+  <rect x="60" y="130" width="40" height="80" rx="4" fill="#3498db" opacity="0.7"/>
+  <rect x="120" y="110" width="40" height="100" rx="4" fill="#2ecc71" opacity="0.7"/>
+  <rect x="180" y="90" width="40" height="120" rx="4" fill="#e74c3c" opacity="0.7"/>
+  <rect x="240" y="130" width="40" height="80" rx="4" fill="#f1c40f" opacity="0.7"/>
+  <rect x="300" y="100" width="40" height="110" rx="4" fill="#9b59b6" opacity="0.7"/>
+  <circle cx="100" cy="390" r="30" fill="none" stroke="#ecf0f1" stroke-width="4" opacity="0.3" stroke-dasharray="60 140" stroke-dashoffset="0"/>
+  <circle cx="100" cy="390" r="30" fill="none" stroke="#3498db" stroke-width="4" opacity="0.5" stroke-dasharray="100 100" stroke-dashoffset="-60"/>
+  <line x1="200" y1="370" x2="340" y2="370" stroke="#ecf0f1" stroke-width="1" opacity="0.2"/>
+  <line x1="200" y1="390" x2="300" y2="390" stroke="#ecf0f1" stroke-width="1" opacity="0.2"/>
+  <line x1="200" y1="410" x2="320" y2="410" stroke="#ecf0f1" stroke-width="1" opacity="0.2"/>
+  <text x="200" y="270" text-anchor="middle" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="28" fill="#ecf0f1" font-weight="bold">信息图表风</text>
+  <text x="200" y="310" text-anchor="middle" font-family="Inter, sans-serif" font-size="18" fill="#ecf0f1" opacity="0.7">Infographic</text>
+</svg>

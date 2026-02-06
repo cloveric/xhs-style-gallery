@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 520" width="400" height="520">
+  <rect width="400" height="520" fill="#f8f9fa" rx="12"/>
+  
+  <rect x="24" y="20" width="352" height="478" rx="14" fill="white" stroke="#e5e7eb" stroke-width="1"/>
+  <rect x="24" y="20" width="176" height="120" rx="14" fill="#dbeafe"/>
+  <rect x="200" y="20" width="176" height="120" rx="14" fill="#fce7f3"/>
+  <rect x="24" y="126" width="176" height="14" rx="0" fill="white"/>
+  <rect x="200" y="126" width="176" height="14" rx="0" fill="white"/>
+  <circle cx="200" cy="80" r="28" fill="white" stroke="#e5e7eb" stroke-width="2"/>
+  <text x="200" y="88" text-anchor="middle" font-family="system-ui,sans-serif" font-size="18" fill="#6b7280" font-weight="bold">VS</text>
+  <rect x="50" y="160" width="120" height="14" rx="4" fill="#93c5fd"/>
+  <rect x="230" y="160" width="120" height="14" rx="4" fill="#f9a8d4"/>
+  <line x1="200" y1="150" x2="200" y2="470" stroke="#e5e7eb" stroke-width="1" stroke-dasharray="6,4"/>
+  
+    <rect x="44" y="196" width="144" height="8" rx="3" fill="#e4e7eb"/>
+    <rect x="44" y="212" width="120" height="8" rx="3" fill="#e4e7eb"/>
+    <rect x="44" y="228" width="100" height="8" rx="3" fill="#e4e7eb"/>
+    <rect x="212" y="196" width="144" height="8" rx="3" fill="#e4e7eb"/>
+    <rect x="212" y="212" width="120" height="8" rx="3" fill="#e4e7eb"/>
+    <rect x="212" y="228" width="100" height="8" rx="3" fill="#e4e7eb"/>
+    
+    <rect x="44" y="250" width="144" height="8" rx="3" fill="#e4e7eb"/>
+    <rect x="44" y="266" width="120" height="8" rx="3" fill="#e4e7eb"/>
+    <rect x="44" y="282" width="100" height="8" rx="3" fill="#e4e7eb"/>
+    <rect x="212" y="250" width="144" height="8" rx="3" fill="#e4e7eb"/>
+    <rect x="212" y="266" width="120" height="8" rx="3" fill="#e4e7eb"/>
+    <rect x="212" y="282" width="100" height="8" rx="3" fill="#e4e7eb"/>
+    
+    <rect x="44" y="304" width="144" height="8" rx="3" fill="#e4e7eb"/>
+    <rect x="44" y="320" width="120" height="8" rx="3" fill="#e4e7eb"/>
+    <rect x="44" y="336" width="100" height="8" rx="3" fill="#e4e7eb"/>
+    <rect x="212" y="304" width="144" height="8" rx="3" fill="#e4e7eb"/>
+    <rect x="212" y="320" width="120" height="8" rx="3" fill="#e4e7eb"/>
+    <rect x="212" y="336" width="100" height="8" rx="3" fill="#e4e7eb"/>
+    
+    <rect x="44" y="358" width="144" height="8" rx="3" fill="#e4e7eb"/>
+    <rect x="44" y="374" width="120" height="8" rx="3" fill="#e4e7eb"/>
+    <rect x="44" y="390" width="100" height="8" rx="3" fill="#e4e7eb"/>
+    <rect x="212" y="358" width="144" height="8" rx="3" fill="#e4e7eb"/>
+    <rect x="212" y="374" width="120" height="8" rx="3" fill="#e4e7eb"/>
+    <rect x="212" y="390" width="100" height="8" rx="3" fill="#e4e7eb"/>
+    
+    <rect x="44" y="412" width="144" height="8" rx="3" fill="#e4e7eb"/>
+    <rect x="44" y="428" width="120" height="8" rx="3" fill="#e4e7eb"/>
+    <rect x="44" y="444" width="100" height="8" rx="3" fill="#e4e7eb"/>
+    <rect x="212" y="412" width="144" height="8" rx="3" fill="#e4e7eb"/>
+    <rect x="212" y="428" width="120" height="8" rx="3" fill="#e4e7eb"/>
+    <rect x="212" y="444" width="100" height="8" rx="3" fill="#e4e7eb"/>
+    
+  <text x="200" y="510" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" fill="#9ca3af">Comparison VS</text>
+  
+</svg>
