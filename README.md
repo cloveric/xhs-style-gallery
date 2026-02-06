@@ -4,13 +4,13 @@
 
 ### 小红书风格模板库
 
-**115种AI生成风格Prompt，助力 Nano Banana Pro (Google Gemini) 图文创作**
+**157种AI生成风格Prompt，助力 Nano Banana Pro (Google Gemini) 图文创作**
 
 [![React](https://img.shields.io/badge/React-19-61dafb?style=flat-square&logo=react&logoColor=white)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-6-646cff?style=flat-square&logo=vite&logoColor=white)](https://vite.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Styles](https://img.shields.io/badge/Styles-115-22c55e?style=flat-square)](#风格分类)
+[![Styles](https://img.shields.io/badge/Styles-157-22c55e?style=flat-square)](#风格分类)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 
 [功能特性](#功能特性) · [快速开始](#快速开始) · [风格分类](#风格分类) · [技术栈](#技术栈) · [预览图生成](#预览图生成)
@@ -44,7 +44,7 @@
 
 | | 特性 | 描述 |
 |---|---|---|
-| **115** | 风格模板 | 覆盖小红书爆款、AI艺术、排版模板三大分类 |
+| **157** | 风格模板 | 覆盖小红书爆款、AI艺术、排版模板三大分类 |
 | **18** | 子分类筛选 | 极简设计、动漫、赛博朋克、卡片排版... |
 | **14** | 场景标签 | 美食、穿搭、教程、旅行、产品展示... |
 | **1-click** | 复制Prompt | 每种风格附带详细的AI生图提示词 |
@@ -67,8 +67,8 @@ npm run dev
 <tr>
 <td>
 
-### 小红书爆款 `30种`
-极简 · 静奢 · 莫兰迪 · 3D立体 · 粘土3D · 孟菲斯 · 多巴胺 · 美拉德 · 杂志风 · 复古胶片 · 韩系简约 · 贴纸合集...
+### 小红书爆款 `72种`
+极简 · 静奢 · 侘寂 · 无印良品 · 毛玻璃 · 北欧 · 莫兰迪 · 樱花粉 · 奶茶色 · 3D立体 · 膨胀3D · 金属3D · 思维导图 · 胶片日记 · 光影 · 国潮新中式 · Y2K · 水彩晕染...
 
 </td>
 <td>
@@ -113,12 +113,12 @@ lucide-react      — 轻量图标库
 
 ```
 xhs-style-gallery/
-├── public/images/previews/    # 115张 Gemini 3 Pro 生成的预览图
+├── public/images/previews/    # 157张 Gemini 3 Pro 生成的预览图
 ├── src/
 │   ├── types/style.ts         # TypeScript 类型定义
 │   ├── data/
 │   │   ├── categories.ts      # 分类和子分类元数据
-│   │   └── styles.json        # 115条风格完整数据
+│   │   └── styles.json        # 157条风格完整数据
 │   ├── hooks/                 # 自定义 hooks (5个)
 │   ├── components/            # UI 组件 (15个)
 │   └── App.tsx                # 根组件
@@ -131,7 +131,7 @@ xhs-style-gallery/
 
 ## 预览图生成
 
-所有115张预览图均由 **Google Gemini 3 Pro** 通过 `awe-gemini-web` 技能生成。生成工具已包含在 `scripts/` 目录中。
+所有157张预览图均由 **Google Gemini 3 Pro** 通过 `awe-gemini-web` 技能生成。生成工具已包含在 `scripts/` 目录中。
 
 ```bash
 # 1. 安装 bun (如果未安装)
