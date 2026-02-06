@@ -158,6 +158,291 @@
     "difficulty": "easy"
   },
   {
+    "id": "wabi-sabi",
+    "name_zh": "侘寂风",
+    "name_en": "Wabi-Sabi",
+    "category": "xiaohongshu",
+    "subcategory": "minimal-design",
+    "tags": [
+      "侘寂",
+      "日式",
+      "wabi-sabi",
+      "imperfect",
+      "organic",
+      "zen"
+    ],
+    "description_zh": "源自日本美学的侘寂风格，崇尚不完美之美与岁月痕迹。以天然材质肌理、不规则形状、柔和大地色调为特征，画面宁静而富有禅意。在小红书家居和生活方式内容中极具感染力，传递出一种接纳与平和的生活态度。",
+    "description_en": "Rooted in Japanese aesthetics, Wabi-Sabi celebrates the beauty of imperfection and the passage of time. Features natural material textures, irregular organic shapes, and muted earth tones. Creates a serene, zen-like atmosphere that resonates deeply with home and lifestyle content on Xiaohongshu.",
+    "prompt": "Create a Xiaohongshu cover image in a Wabi-Sabi aesthetic inspired by Japanese philosophy of imperfect beauty. Use a muted, desaturated earth-tone palette — warm clay, stone gray, aged cream, soft moss. Feature natural material textures prominently: raw ceramic surfaces, handmade paper grain, weathered wood, or cracked plaster. Incorporate asymmetric, organic composition with deliberate empty space that feels contemplative rather than merely blank. Typography should be minimal and understated — thin, airy characters with generous spacing. Include subtle imperfections: uneven edges, hand-drawn line work, or watercolor bleeding effects. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should radiate quiet serenity, embrace natural aging and imperfection, and convey the Japanese concept of finding beauty in simplicity and transience.",
+    "prompt_tips": "加入具体材质描述（如'raw ceramic glaze'、'cracked earth texture'、'handmade washi paper'）能大幅提升效果。避免对称构图，刻意留出不规则留白。配色保持低饱和度，推荐使用陶土色+灰白组合。",
+    "best_for": [
+      "家居美学",
+      "生活哲学",
+      "茶道花道",
+      "日式生活"
+    ],
+    "use_cases": [
+      "家居装修",
+      "生活方式",
+      "美食",
+      "读书笔记"
+    ],
+    "color_palette": [
+      "#d4c4a8",
+      "#a09080",
+      "#e8e0d4",
+      "#7a6e5d",
+      "#c2b8a3"
+    ],
+    "preview_image": "/images/previews/wabi-sabi.png",
+    "reference_images": [],
+    "difficulty": "medium"
+  },
+  {
+    "id": "muji-style",
+    "name_zh": "无印良品风",
+    "name_en": "MUJI Style",
+    "category": "xiaohongshu",
+    "subcategory": "minimal-design",
+    "tags": [
+      "无印风",
+      "MUJI",
+      "natural",
+      "functional",
+      "simple",
+      "素净"
+    ],
+    "description_zh": "借鉴无印良品设计语言的风格，强调功能至上、去除多余装饰。以原木色、白色、米色为主调，版面规整有序、信息清晰直观。传递出朴素自然、回归本质的理念，适合产品展示和生活方式分享。",
+    "description_en": "Inspired by MUJI's design language — function-first, stripped of unnecessary decoration. Built on natural wood, white, and beige tones with orderly grid layouts and clear information hierarchy. Conveys a philosophy of simplicity and returning to essentials.",
+    "prompt": "Create a Xiaohongshu cover image in a MUJI-inspired design style emphasizing functional simplicity and natural materials. Use a restrained palette of raw wood tones, warm white, soft beige, and light gray — no saturated colors. The layout should follow a clean grid system with well-defined content blocks separated by generous padding. Typography should be simple sans-serif with consistent weight, evoking product label aesthetics. Include subtle natural textures: light wood grain, kraft paper, cotton linen weave. All visual elements should feel purposeful and stripped of decoration — every element earns its place. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The overall mood should be calm, honest, and quietly confident — the visual equivalent of a well-organized, thoughtfully designed everyday product.",
+    "prompt_tips": "加入'kraft paper background'或'light birch wood texture'能增强无印风质感。排版保持严格网格对齐，避免任何花哨装饰元素。文字用无衬线细体，颜色用深灰而非纯黑（如#333333）更自然。",
+    "best_for": [
+      "产品展示",
+      "收纳整理",
+      "生活好物",
+      "简约生活"
+    ],
+    "use_cases": [
+      "产品展示",
+      "生活方式",
+      "家居装修",
+      "美食"
+    ],
+    "color_palette": [
+      "#f5f0e8",
+      "#d4c4a8",
+      "#ffffff",
+      "#8b7d6b",
+      "#e8e0d0"
+    ],
+    "preview_image": "/images/previews/muji-style.png",
+    "reference_images": [],
+    "difficulty": "easy"
+  },
+  {
+    "id": "glass-morphism",
+    "name_zh": "毛玻璃风",
+    "name_en": "Glassmorphism",
+    "category": "xiaohongshu",
+    "subcategory": "minimal-design",
+    "tags": [
+      "毛玻璃",
+      "透明",
+      "glassmorphism",
+      "frosted",
+      "UI",
+      "科技感"
+    ],
+    "description_zh": "以磨砂玻璃效果为核心视觉语言的设计风格，通过半透明模糊层、微妙边框和柔和光影创造出悬浮感和层次感。画面兼具科技感与优雅，特别适合数码产品和科技类内容展示，在小红书上极具吸引力。",
+    "description_en": "A design style centered on frosted glass visual effects, using semi-transparent blur layers, subtle borders, and soft lighting to create depth and floating elements. Blends tech-forward aesthetics with elegance, ideal for digital product and technology content on Xiaohongshu.",
+    "prompt": "Create a Xiaohongshu cover image using glassmorphism design principles. Build the layout around frosted glass panels — semi-transparent cards with background blur effect, thin white or light borders (1px, 20-30% opacity), and soft drop shadows. Place these glass cards over a vibrant but blurred gradient background using cool blues, purples, or teals. Content within the glass panels should use clean white or light-colored typography with high readability. Add subtle light refraction effects and occasional floating geometric shapes for depth. Include small glowing accents or soft bokeh elements in the background. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel modern, futuristic, and premium — like a polished app interface floating in a luminous digital space.",
+    "prompt_tips": "背景渐变色推荐蓝紫色系（如'deep blue to violet gradient'），毛玻璃透明度建议20-40%。确保文字在半透明层上仍清晰可读。加入'bokeh light spots'可增强画面层次感。",
+    "best_for": [
+      "科技产品",
+      "App推荐",
+      "数码测评",
+      "UI设计"
+    ],
+    "use_cases": [
+      "科技数码",
+      "产品展示",
+      "教程",
+      "职场效率"
+    ],
+    "color_palette": [
+      "#667eea",
+      "#764ba2",
+      "#f8f9ff",
+      "#ffffff80",
+      "#e0e7ff"
+    ],
+    "preview_image": "/images/previews/glass-morphism.png",
+    "reference_images": [],
+    "difficulty": "medium"
+  },
+  {
+    "id": "line-art-minimal",
+    "name_zh": "线条极简风",
+    "name_en": "Line Art Minimal",
+    "category": "xiaohongshu",
+    "subcategory": "minimal-design",
+    "tags": [
+      "线条",
+      "插画",
+      "line-art",
+      "outline",
+      "minimal",
+      "简笔画"
+    ],
+    "description_zh": "以单线条插画为核心视觉元素的极简风格，用连续流畅的线条勾勒出图形与信息。画面简洁但不失趣味，线条的优雅弧度赋予设计独特的手绘温度。特别适合教程、步骤说明和科普知识类内容。",
+    "description_en": "A minimal style built around single-line illustrations — continuous, flowing strokes that outline figures and information. Clean yet playful, the elegant curves of line art add a hand-drawn warmth to designs. Especially suited for tutorials, step-by-step guides, and educational content.",
+    "prompt": "Create a Xiaohongshu cover image in a line art minimal style. The primary visual elements should be continuous single-line illustrations — elegant, flowing outlines drawn with consistent stroke weight (1-2px). Use a clean white or very light cream background to let the line work breathe. The line color should be a single tone — black, dark gray, or one accent color. Incorporate line-drawn icons, decorative dividers, and illustrative elements that relate to the topic. Typography should be clean and modern, complementing the line art without competing. Add minimal color accents sparingly — perhaps a single highlight color for emphasis. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel sophisticated, artistic, and effortlessly elegant — like a page from a modern illustrated notebook.",
+    "prompt_tips": "线条粗细保持一致（1-2px），避免填充色块——纯线条最有辨识度。可以用一个强调色（如珊瑚红或靛蓝）点缀关键信息。加入'continuous line drawing'关键词效果更佳。",
+    "best_for": [
+      "教程步骤",
+      "科普图解",
+      "生活小技巧",
+      "手账风格"
+    ],
+    "use_cases": [
+      "教程",
+      "科普知识",
+      "生活方式",
+      "读书笔记"
+    ],
+    "color_palette": [
+      "#ffffff",
+      "#f8f6f1",
+      "#2c2c2c",
+      "#e8625c",
+      "#f0ebe3"
+    ],
+    "preview_image": "/images/previews/line-art-minimal.png",
+    "reference_images": [],
+    "difficulty": "easy"
+  },
+  {
+    "id": "scandinavian",
+    "name_zh": "北欧风",
+    "name_en": "Scandinavian Design",
+    "category": "xiaohongshu",
+    "subcategory": "minimal-design",
+    "tags": [
+      "北欧",
+      "简约",
+      "scandinavian",
+      "hygge",
+      "cozy",
+      "functional"
+    ],
+    "description_zh": "灵感来源于北欧设计美学的风格，融合功能主义与温馨舒适感。以浅木色、白色和柔和灰蓝为主调，搭配几何图案和自然元素，营造出明亮、温暖、有序的视觉体验。在小红书家居和生活方式板块深受欢迎。",
+    "description_en": "Inspired by Scandinavian design aesthetics — a fusion of functionalism and cozy warmth (hygge). Features light wood, white, and soft gray-blue tones paired with geometric patterns and natural elements. Creates a bright, warm, and orderly visual experience popular in home and lifestyle content.",
+    "prompt": "Create a Xiaohongshu cover image in a Scandinavian design style that balances clean functionalism with cozy warmth. Use a light, airy palette — crisp white, pale birch wood, soft gray, muted dusty blue, and touches of sage green. The layout should be clean and well-structured with a sense of breathing room. Incorporate Nordic design elements: simple geometric patterns, botanical line drawings, rounded organic shapes. Include subtle natural material textures — light pine wood, wool knit, or ceramic surfaces. Typography should be modern sans-serif with a friendly, approachable feel. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The overall mood should evoke hygge — that distinctly Nordic feeling of cozy contentment, warmth, and thoughtful simplicity in a bright, welcoming space.",
+    "prompt_tips": "加入'birch wood texture'和'wool knit pattern'能增强北欧氛围。色彩以白色为主、搭配一到两个柔和色调（灰蓝或鼠尾草绿）。几何图案保持简单规则，避免过于复杂的装饰。",
+    "best_for": [
+      "家居装修",
+      "生活方式",
+      "收纳整理",
+      "亲子生活"
+    ],
+    "use_cases": [
+      "家居装修",
+      "生活方式",
+      "产品展示",
+      "美食"
+    ],
+    "color_palette": [
+      "#ffffff",
+      "#e8dfd5",
+      "#8faabe",
+      "#b8c9b8",
+      "#f5f0e8"
+    ],
+    "preview_image": "/images/previews/scandinavian.png",
+    "reference_images": [],
+    "difficulty": "easy"
+  },
+  {
+    "id": "paper-cutout",
+    "name_zh": "剪纸风",
+    "name_en": "Paper Cutout",
+    "category": "xiaohongshu",
+    "subcategory": "minimal-design",
+    "tags": [
+      "剪纸",
+      "分层",
+      "paper-cut",
+      "layered",
+      "Chinese",
+      "手工感"
+    ],
+    "description_zh": "以分层剪纸效果为视觉核心的设计风格，通过多层纸张叠加产生立体阴影和丰富层次。既可呈现中国传统剪纸的文化韵味，也可演绎现代纸艺的时尚感。特别适合中国传统节日、文化科普和创意手工类内容。",
+    "description_en": "A design style centered on layered paper cutout effects — multiple paper layers stacked to create dimensional shadows and rich depth. Can evoke both traditional Chinese paper-cutting culture and modern paper craft aesthetics. Ideal for cultural festivals, educational content, and creative DIY topics.",
+    "prompt": "Create a Xiaohongshu cover image in a paper cutout style with layered paper effects. Design the visual elements as if they were cut from different colored paper sheets — each layer casting subtle realistic shadows onto the layer below. Use 3-5 distinct paper layers with varying depths to create a three-dimensional collage effect. The paper textures should feel tactile — slightly rough edges, visible fiber grain, natural paper curl. Color palette should include rich red, warm gold, cream white, and deep teal for cultural themes, or soft pastels for modern interpretations. Incorporate decorative cut-paper motifs: botanical silhouettes, geometric borders, or traditional patterns. Typography should appear as if stamped or embossed on the topmost paper layer. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel artisanal, dimensional, and culturally rich — celebrating the timeless craft of paper art.",
+    "prompt_tips": "指定层数（如'5 layers of paper with shadows'）效果更明显。传统风格用红金配色，现代风格用莫兰迪色系纸张。加入'realistic paper shadow'和'cut edge texture'增强立体感。也可加入'Chinese paper-cutting pattern'突出传统文化元素。",
+    "best_for": [
+      "传统节日",
+      "文化科普",
+      "手工DIY",
+      "中国风"
+    ],
+    "use_cases": [
+      "科普知识",
+      "教程",
+      "生活方式",
+      "ACG/二次元"
+    ],
+    "color_palette": [
+      "#d4382c",
+      "#f0c75e",
+      "#f5f0e0",
+      "#2a6e6e",
+      "#8b2500"
+    ],
+    "preview_image": "/images/previews/paper-cutout.png",
+    "reference_images": [],
+    "difficulty": "medium"
+  },
+  {
+    "id": "negative-space",
+    "name_zh": "负空间风",
+    "name_en": "Negative Space",
+    "category": "xiaohongshu",
+    "subcategory": "minimal-design",
+    "tags": [
+      "负空间",
+      "创意",
+      "negative-space",
+      "clever",
+      "optical",
+      "极简"
+    ],
+    "description_zh": "巧妙利用画面空白区域构成隐藏图形或双重含义的设计风格。正形与负形相互定义，观者需要'发现'隐藏的视觉信息，形成强烈的创意冲击力和记忆点。在小红书上极具传播力，适合需要创意表达的各类内容。",
+    "description_en": "A design style that cleverly uses empty space to form hidden figures or dual meanings. Positive and negative shapes define each other — viewers must 'discover' the hidden visual message, creating strong creative impact and memorability. Highly viral on Xiaohongshu for content requiring creative expression.",
+    "prompt": "Create a Xiaohongshu cover image that masterfully uses negative space as the primary design technique. The composition should feature a clever interplay between filled and empty areas — where the background space itself forms a recognizable secondary image or meaningful shape. Use a strict two-tone or three-tone palette for maximum contrast and clarity of the negative space illusion. The positive elements and negative space should be equally important, creating an 'aha moment' when the viewer perceives the hidden image. Typography should be integrated into the composition — possibly using the text itself as part of the positive/negative interplay. Keep the design bold and graphic with clean, decisive edges. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should be intellectually engaging, visually striking, and reward careful observation — the kind of image that makes viewers stop scrolling to look twice.",
+    "prompt_tips": "描述你想要的双重图形（如'coffee cup shape formed by negative space between two faces'）。保持严格双色对比——黑白效果最经典，也可用深色+亮色。构图越简洁，负空间效果越强烈。避免添加过多细节干扰负空间阅读。",
+    "best_for": [
+      "创意设计",
+      "品牌Logo",
+      "概念传达",
+      "视觉艺术"
+    ],
+    "use_cases": [
+      "科普知识",
+      "产品展示",
+      "教程",
+      "职场效率"
+    ],
+    "color_palette": [
+      "#1a1a2e",
+      "#ffffff",
+      "#e8e8e8"
+    ],
+    "preview_image": "/images/previews/negative-space.png",
+    "reference_images": [],
+    "difficulty": "advanced"
+  },
+  {
     "id": "morandi",
     "name_zh": "莫兰迪色系",
     "name_en": "Morandi Palette",
@@ -358,6 +643,293 @@
     "difficulty": "easy"
   },
   {
+    "id": "sakura-pink",
+    "name_zh": "樱花粉色系",
+    "name_en": "Sakura Pink",
+    "category": "xiaohongshu",
+    "subcategory": "color-palette",
+    "tags": [
+      "樱花",
+      "粉色",
+      "sakura",
+      "spring",
+      "soft",
+      "浪漫"
+    ],
+    "description_zh": "以日本樱花为灵感的粉色调设计风格，从浅白樱到深粉层层递进，营造浪漫柔美的春日氛围。画面轻盈通透，搭配花瓣飘散等元素增添诗意。在小红书春季美妆、穿搭和浪漫场景内容中极具吸引力。",
+    "description_en": "A pink-toned design style inspired by Japanese cherry blossoms — graduating from pale blossom white to deep rose, creating a romantic, soft spring atmosphere. Light, airy compositions with drifting petal elements add a poetic touch. Highly appealing for spring beauty, fashion, and romantic content.",
+    "prompt": "Create a Xiaohongshu cover image in a sakura pink color palette inspired by Japanese cherry blossom season. Build the color scheme around graduating pink tones — from the palest blush white (#fff0f5) through soft petal pink (#ffc0cb) to warm rose (#e8a0b4). The background should have a soft, dreamy quality with gentle gradients between pink shades. Incorporate delicate sakura elements: scattered flower petals with subtle transparency, thin branch silhouettes, or soft bokeh circles in pink tones. Typography should be elegant and light — thin serif or script fonts in white or deep rose. Add a gentle warm glow effect to the overall composition. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel romantic, ephemeral, and beautiful — capturing the fleeting magic of cherry blossom season in every visual detail.",
+    "prompt_tips": "加入'floating sakura petals'和'soft pink bokeh'能营造梦幻感。粉色渐变至少用3个层次（浅粉→中粉→玫粉）。搭配白色或浅金色文字最和谐。适合春季3-5月发布的内容。",
+    "best_for": [
+      "春季美妆",
+      "浪漫穿搭",
+      "樱花季旅行",
+      "女性向内容"
+    ],
+    "use_cases": [
+      "美妆护肤",
+      "穿搭",
+      "旅行",
+      "生活方式"
+    ],
+    "color_palette": [
+      "#fff0f5",
+      "#ffc0cb",
+      "#e8a0b4",
+      "#d4728c",
+      "#fff5f8"
+    ],
+    "preview_image": "/images/previews/sakura-pink.png",
+    "reference_images": [],
+    "difficulty": "easy"
+  },
+  {
+    "id": "ice-blue",
+    "name_zh": "冰蓝色系",
+    "name_en": "Ice Blue",
+    "category": "xiaohongshu",
+    "subcategory": "color-palette",
+    "tags": [
+      "冰蓝",
+      "清凉",
+      "ice-blue",
+      "cool",
+      "refreshing",
+      "夏日"
+    ],
+    "description_zh": "以冰蓝冷色调为核心的设计风格，从浅冰白到深海蓝的渐变传递清凉透彻的视觉感受。画面清爽干净，搭配水晶、冰块或水滴等元素增强冰感。在夏季护肤、清凉饮品和水主题内容中特别受欢迎。",
+    "description_en": "A cool-toned design style centered on ice blue hues — gradients from pale ice white to deep ocean blue convey a refreshing, crystal-clear feel. Clean, crisp compositions enhanced with crystal, ice, or water drop elements. Especially popular for summer skincare, cool beverages, and water-themed content.",
+    "prompt": "Create a Xiaohongshu cover image in an ice blue color palette that evokes crystalline coolness and refreshing clarity. Build the color scheme around icy blue tones — from glacial white (#f0f8ff) through pale ice blue (#b8d8e8) to deep arctic blue (#4a90b8). The design should feel cool and transparent, like looking through clear ice or fresh water. Incorporate frosted or crystalline textures: subtle ice crystal patterns, water droplet effects, frozen surface refractions, or glass-like transparency. Background should feature soft blue-white gradients with a luminous, backlit quality. Typography should be crisp and clean — geometric sans-serif in white or deep navy. Add sparkle or light reflection accents for a diamond-dust effect. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel impossibly cool, pristine, and refreshing — a visual antidote to heat that makes viewers feel the chill.",
+    "prompt_tips": "加入'ice crystal texture'和'water droplet refraction'增强冰感。蓝色渐变保持高明度低饱和，避免过于深沉。白色微光点缀（'diamond dust sparkle'）能提升清凉高级感。适合夏季6-8月发布的内容。",
+    "best_for": [
+      "夏季护肤",
+      "清凉饮品",
+      "夏日穿搭",
+      "补水产品"
+    ],
+    "use_cases": [
+      "美妆护肤",
+      "美食",
+      "产品展示",
+      "生活方式"
+    ],
+    "color_palette": [
+      "#f0f8ff",
+      "#b8d8e8",
+      "#4a90b8",
+      "#e0f0f8",
+      "#2c6e8a"
+    ],
+    "preview_image": "/images/previews/ice-blue.png",
+    "reference_images": [],
+    "difficulty": "easy"
+  },
+  {
+    "id": "matcha-green",
+    "name_zh": "抹茶绿色系",
+    "name_en": "Matcha Green",
+    "category": "xiaohongshu",
+    "subcategory": "color-palette",
+    "tags": [
+      "抹茶",
+      "绿色",
+      "matcha",
+      "organic",
+      "natural",
+      "日式"
+    ],
+    "description_zh": "以抹茶绿为主调的设计风格，融合深浅不同的绿色层次，传递出自然、健康、雅致的视觉印象。色调温润不刺眼，搭配奶油白和木色营造和风咖啡馆般的舒适氛围。在美食、咖啡和健康生活类内容中大受欢迎。",
+    "description_en": "A design style anchored in matcha green tones — layering various green depths to convey natural, healthy, and refined visuals. The warm, gentle greens paired with cream white and wood tones create a Japanese cafe-like cozy atmosphere. Hugely popular for food, coffee, and wellness content.",
+    "prompt": "Create a Xiaohongshu cover image in a matcha green color palette inspired by Japanese tea ceremony aesthetics. Build the color scheme around rich matcha tones — from pale tea foam (#e8f0e0) through creamy matcha (#a8c090) to deep ceremonial green (#5a7a48). Pair the greens with warm complementary tones: cream white, soft beige, and natural wood brown. The design should feel organic and appetizing, like a beautifully plated matcha dessert. Include subtle textures that evoke the matcha world: fine powder dusting effect, ceramic tea bowl surface, bamboo whisk patterns, or soft foam swirls. Typography should be warm and approachable — rounded sans-serif or gentle serif fonts. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The overall aesthetic should feel artisanal, wholesome, and inviting — the visual warmth of a quiet afternoon in a Japanese tea house.",
+    "prompt_tips": "加入'matcha powder texture'和'ceramic surface'能增强茶道氛围。绿色避免过于鲜艳——偏黄的暖绿比冷绿更有抹茶感。搭配奶油色（'cream foam'）形成经典抹茶拿铁配色。",
+    "best_for": [
+      "美食甜品",
+      "咖啡探店",
+      "健康饮食",
+      "日式生活"
+    ],
+    "use_cases": [
+      "美食",
+      "产品展示",
+      "生活方式",
+      "旅行"
+    ],
+    "color_palette": [
+      "#e8f0e0",
+      "#a8c090",
+      "#5a7a48",
+      "#f5f0e0",
+      "#8aab6e"
+    ],
+    "preview_image": "/images/previews/matcha-green.png",
+    "reference_images": [],
+    "difficulty": "easy"
+  },
+  {
+    "id": "sunset-gradient",
+    "name_zh": "日落渐变色系",
+    "name_en": "Sunset Gradient",
+    "category": "xiaohongshu",
+    "subcategory": "color-palette",
+    "tags": [
+      "日落",
+      "渐变",
+      "sunset",
+      "gradient",
+      "warm",
+      "浪漫"
+    ],
+    "description_zh": "以日落时分橙紫渐变为灵感的色彩设计，从金色暖阳过渡到玫瑰紫霞，画面温暖而梦幻。渐变色流动感强，营造出浪漫感性的视觉氛围。在旅行、心情分享和情感类小红书内容中极具感染力。",
+    "description_en": "A color design inspired by sunset orange-to-purple gradients — transitioning from golden warmth to rose-purple dusk, creating warm, dreamy visuals. The flowing gradient evokes romantic, emotive atmospheres. Highly compelling for travel, mood-sharing, and emotional content on Xiaohongshu.",
+    "prompt": "Create a Xiaohongshu cover image using a sunset gradient color palette that captures the magical transition of dusk. Build the background with a smooth, flowing gradient that moves from warm golden amber (#f0a050) through coral orange (#e87060) to soft rose (#d06080) and into dusky lavender-purple (#8060a0). The gradient should feel natural and luminous, like the sky during golden hour. Add atmospheric depth: soft cloud silhouettes, lens flare effects, warm haze, or gentle light particles floating in the gradient. Typography should be bold yet romantic — a mix of serif headlines and light body text in white or pale cream for high contrast against the warm tones. Include subtle gold foil or metallic shimmer accents. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should radiate warmth, nostalgia, and golden-hour magic — making viewers feel the emotional beauty of watching a perfect sunset.",
+    "prompt_tips": "渐变至少包含4个色彩节点（金→橙→粉→紫）才够丰富。加入'golden hour lens flare'和'warm haze effect'增强日落氛围。文字用白色或浅奶油色确保在暖色背景上清晰可读。适合傍晚/情感类发布时段。",
+    "best_for": [
+      "旅行摄影",
+      "心情日记",
+      "情感文案",
+      "浪漫场景"
+    ],
+    "use_cases": [
+      "旅行",
+      "生活方式",
+      "穿搭",
+      "美妆护肤"
+    ],
+    "color_palette": [
+      "#f0a050",
+      "#e87060",
+      "#d06080",
+      "#8060a0",
+      "#ffd4a0"
+    ],
+    "preview_image": "/images/previews/sunset-gradient.png",
+    "reference_images": [],
+    "difficulty": "easy"
+  },
+  {
+    "id": "lavender-haze",
+    "name_zh": "薰衣草紫色系",
+    "name_en": "Lavender Haze",
+    "category": "xiaohongshu",
+    "subcategory": "color-palette",
+    "tags": [
+      "薰衣草",
+      "紫色",
+      "lavender",
+      "dreamy",
+      "gentle",
+      "浪漫"
+    ],
+    "description_zh": "以薰衣草柔紫色调为核心的设计风格，从淡丁香到深紫藤的色彩层次营造出梦幻、温柔、治愈的视觉体验。紫色自带神秘浪漫属性，搭配银灰和奶白极具高级感。在美妆、香薰和女性向生活内容中表现出色。",
+    "description_en": "A design style centered on soft lavender purple tones — from pale lilac to deep wisteria, creating dreamy, gentle, and healing visual experiences. Purple's inherent romantic mystique paired with silver-gray and cream white delivers premium aesthetics. Excels in beauty, aromatherapy, and feminine lifestyle content.",
+    "prompt": "Create a Xiaohongshu cover image in a lavender haze color palette that wraps the viewer in soft purple dreaminess. Build the palette around delicate lavender tones — from misty lilac white (#f0e6f6) through gentle lavender (#c8a8d8) to deeper wisteria purple (#8a68a8). Complement with silver-gray and pearl white accents. The design should have a slightly hazy, ethereal quality — like viewing the world through a sheer lavender veil. Incorporate soft, organic elements: abstract floral shapes, gentle smoke wisps, watercolor wash effects, or silk fabric folds in purple tones. Typography should be refined and feminine — elegant serif or calligraphic styles in white or deep amethyst. Add subtle iridescent or holographic shimmer effects for a touch of modern magic. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The mood should be dreamy, soothing, and enchanting — a visual lullaby in shades of purple that feels both luxurious and deeply comforting.",
+    "prompt_tips": "紫色用低饱和度偏灰的薰衣草色（非荧光紫），加入'soft haze'或'watercolor wash'增强梦幻感。搭配银色或珍珠白文字最和谐。可加入'dried lavender bouquet'或'silk fabric texture'增强主题感。",
+    "best_for": [
+      "美妆测评",
+      "香薰生活",
+      "浪漫穿搭",
+      "自我疗愈"
+    ],
+    "use_cases": [
+      "美妆护肤",
+      "生活方式",
+      "穿搭",
+      "读书笔记"
+    ],
+    "color_palette": [
+      "#f0e6f6",
+      "#c8a8d8",
+      "#8a68a8",
+      "#e8d8f0",
+      "#6b4d8a"
+    ],
+    "preview_image": "/images/previews/lavender-haze.png",
+    "reference_images": [],
+    "difficulty": "easy"
+  },
+  {
+    "id": "cyberpunk-neon",
+    "name_zh": "赛博霓虹色系",
+    "name_en": "Cyberpunk Neon",
+    "category": "xiaohongshu",
+    "subcategory": "color-palette",
+    "tags": [
+      "赛博朋克",
+      "霓虹",
+      "cyberpunk",
+      "neon",
+      "futuristic",
+      "暗色"
+    ],
+    "description_zh": "以暗色背景搭配高亮霓虹色的赛博朋克视觉风格。荧光粉、电光蓝、霓虹紫在深黑底色上形成强烈视觉冲击，营造出未来都市、科幻赛博的氛围。在科技数码、夜生活和潮流文化内容中极具辨识度。",
+    "description_en": "A cyberpunk visual style featuring dark backgrounds with high-intensity neon colors. Fluorescent pink, electric blue, and neon purple against deep black create striking visual impact and a futuristic urban sci-fi atmosphere. Instantly recognizable in tech, nightlife, and urban culture content.",
+    "prompt": "Create a Xiaohongshu cover image in a cyberpunk neon color scheme that pulses with electric energy. Set the scene against a deep, near-black background (#0a0a14) with dramatic neon highlights. Use vivid cyberpunk signature colors: hot magenta pink (#ff2d95), electric cyan blue (#00f0ff), and neon violet (#b026ff). Apply neon glow effects — each bright element should emit a soft luminous aura that bleeds into the dark surroundings. Include futuristic visual elements: glitch distortion effects, scan lines, digital grid patterns, holographic displays, or circuit-board geometries. Typography should be bold and angular — tech-style fonts with neon glow treatment. Add chromatic aberration effects and digital noise texture for authentic cyberpunk grit. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel like a neon-drenched night in a dystopian megacity — intense, electrifying, and unmistakably futuristic.",
+    "prompt_tips": "背景必须够暗（接近纯黑）才能让霓虹色发光。加入'neon glow bleeding effect'和'glitch distortion'增强赛博感。霓虹色不宜超过3种，太多会杂乱。'scan lines overlay'和'chromatic aberration'是标志性细节。",
+    "best_for": [
+      "科技数码",
+      "夜生活",
+      "游戏推荐",
+      "潮流文化"
+    ],
+    "use_cases": [
+      "科技数码",
+      "ACG/二次元",
+      "产品展示",
+      "生活方式"
+    ],
+    "color_palette": [
+      "#0a0a14",
+      "#ff2d95",
+      "#00f0ff",
+      "#b026ff",
+      "#1a1a2e"
+    ],
+    "preview_image": "/images/previews/cyberpunk-neon.png",
+    "reference_images": [],
+    "difficulty": "medium"
+  },
+  {
+    "id": "milk-tea-tone",
+    "name_zh": "奶茶色系",
+    "name_en": "Milk Tea Tone",
+    "category": "xiaohongshu",
+    "subcategory": "color-palette",
+    "tags": [
+      "奶茶色",
+      "温柔",
+      "milk-tea",
+      "cream",
+      "cozy",
+      "小红书"
+    ],
+    "description_zh": "以奶茶棕、奶油白和焦糖色为主调的温柔色系，是小红书最具代表性的美学风格之一。色调统一温暖、自带滤镜感，画面柔和不刺眼，营造出慵懒舒适的生活气息。几乎适用于小红书所有类型的内容创作。",
+    "description_en": "A warm, gentle palette of milk tea brown, cream white, and caramel — one of Xiaohongshu's most iconic aesthetic signatures. Uniformly warm tones with a built-in filter feel, soft and easy on the eyes, creating a cozy, laid-back lifestyle atmosphere. Versatile enough for virtually any Xiaohongshu content type.",
+    "prompt": "Create a Xiaohongshu cover image in the signature milk tea tone palette that defines the platform's visual identity. Build the entire color scheme around warm brown-cream tones — from soft cream white (#faf5ef) through warm milk tea (#d4b896) to rich caramel (#a0845c). Every element should feel bathed in warm, golden-hour-like light. The design should feel soft and inviting, like a warm drink on a cozy afternoon. Include subtle cozy textures: linen fabric, cream foam swirl, kraft paper, or soft knit patterns. Typography should be warm and rounded — friendly sans-serif or handwritten style in chocolate brown or cream. Layout should be clean but approachable, with soft rounded corners on content blocks and gentle shadow effects. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The overall aesthetic should be the quintessential Xiaohongshu vibe — effortlessly warm, universally flattering, and irresistibly cozy, like scrolling through the app with a milk tea in hand.",
+    "prompt_tips": "全画面保持统一奶茶色调是关键——避免出现与奶茶色系冲突的冷色。加入'warm golden light'和'soft linen texture'增强温柔感。文字用深巧克力棕（#5a4535）比纯黑更和谐。这是小红书万能配色，适合任何季节和主题。",
+    "best_for": [
+      "日常分享",
+      "美食探店",
+      "穿搭搭配",
+      "好物推荐"
+    ],
+    "use_cases": [
+      "美食",
+      "穿搭",
+      "生活方式",
+      "产品展示"
+    ],
+    "color_palette": [
+      "#faf5ef",
+      "#d4b896",
+      "#a0845c",
+      "#e8d8c4",
+      "#5a4535"
+    ],
+    "preview_image": "/images/previews/milk-tea-tone.png",
+    "reference_images": [],
+    "difficulty": "easy"
+  },
+  {
     "id": "3d-dimensional",
     "name_zh": "3D立体风",
     "name_en": "3D Dimensional",
@@ -514,6 +1086,293 @@
       "#d5f5e8"
     ],
     "preview_image": "/images/previews/3d-bubble.png",
+    "reference_images": [],
+    "difficulty": "medium"
+  },
+  {
+    "id": "3d-glass",
+    "name_zh": "玻璃3D风",
+    "name_en": "3D Glass",
+    "category": "xiaohongshu",
+    "subcategory": "3d-effects",
+    "tags": [
+      "3D",
+      "玻璃",
+      "glass",
+      "透明",
+      "render",
+      "futuristic"
+    ],
+    "description_zh": "以透明玻璃材质为核心的3D渲染风格。利用折射、反射和光线穿透效果打造晶莹剔透的视觉质感，科技感与高级感并存。适合展示产品、科技和数码内容，在小红书信息流中极具辨识度。",
+    "description_en": "3D rendering style centered on transparent glass materials. Features refraction, reflection, and light transmission effects that create a crystal-clear visual quality. Combines tech-forward aesthetics with premium feel, perfect for product and technology content.",
+    "prompt": "Create a Xiaohongshu cover image using stunning 3D glass material rendering. Feature transparent, frosted, and colored glass objects with realistic refraction and caustic light effects. The main elements should appear as clear or tinted glass sculptures floating against a soft gradient background. Apply studio lighting to emphasize transparency, reflections, and the way light bends through glass surfaces. Include subtle rainbow prismatic effects where light passes through edges. Use a clean, minimal composition with glass 3D text elements that have visible depth and thickness. Color palette should be cool tones — icy blues, soft whites, and hints of iridescence. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The overall feel should be premium, futuristic, and elegantly transparent.",
+    "prompt_tips": "指定玻璃类型（如'frosted glass'、'colored glass'、'crystal clear'）可丰富材质层次。加入'caustic light patterns'能增强真实感。背景用浅色渐变效果最佳。",
+    "best_for": [
+      "科技数码",
+      "产品展示",
+      "创意设计",
+      "美妆护肤"
+    ],
+    "use_cases": [
+      "科技数码",
+      "产品展示",
+      "美妆护肤",
+      "生活方式"
+    ],
+    "color_palette": [
+      "#e0f7fa",
+      "#80deea",
+      "#b2ebf2",
+      "#ffffff",
+      "#cfd8dc"
+    ],
+    "preview_image": "/images/previews/3d-glass.png",
+    "reference_images": [],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "3d-inflated",
+    "name_zh": "膨胀3D风",
+    "name_en": "3D Inflated",
+    "category": "xiaohongshu",
+    "subcategory": "3d-effects",
+    "tags": [
+      "3D",
+      "膨胀",
+      "inflated",
+      "bubble",
+      "充气",
+      "趋势"
+    ],
+    "description_zh": "2024年大火的膨胀充气3D风格，文字和形状像气球一样鼓起。圆润饱满的造型搭配柔和光影，视觉冲击力强，自带萌感和趣味性。特别适合吸引年轻用户关注，广泛用于美食、穿搭和生活类内容。",
+    "description_en": "Trending inflated 3D style where text and shapes appear balloon-like and puffy. Rounded, plump forms with soft lighting create strong visual impact with a playful, cute aesthetic. Highly appealing to younger audiences, widely used for food, fashion, and lifestyle content.",
+    "prompt": "Create a Xiaohongshu cover image in the trending 3D inflated style. All text and graphic elements should appear puffy, balloon-like, and inflated as if filled with air. Use rounded, bulging 3D shapes with soft, pillowy surfaces that catch light beautifully. Apply smooth subsurface scattering for a marshmallow-like material quality. The inflated elements should have gentle shadows and highlights that emphasize their volumetric, squeezable appearance. Background should be a warm pastel gradient. Include oversized inflated 3D typography as the main visual element with a playful, bouncy feel. Add small floating inflated icons or decorative shapes around the composition. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel fun, trendy, tactile, and irresistibly touchable.",
+    "prompt_tips": "用'marshmallow texture'或'pillow-soft surface'来描述膨胀质感更精准。搭配暖色调柔和渐变背景效果绝佳。加入'squeezable, bouncy'等形容词增强膨胀感。",
+    "best_for": [
+      "美食甜品",
+      "穿搭时尚",
+      "生活日常",
+      "趋势前沿"
+    ],
+    "use_cases": [
+      "美食",
+      "穿搭",
+      "生活方式",
+      "美妆护肤"
+    ],
+    "color_palette": [
+      "#ff9a9e",
+      "#fecfef",
+      "#ffdde1",
+      "#a18cd1",
+      "#fbc2eb"
+    ],
+    "preview_image": "/images/previews/3d-inflated.png",
+    "reference_images": [],
+    "difficulty": "medium"
+  },
+  {
+    "id": "3d-low-poly",
+    "name_zh": "低多边形3D风",
+    "name_en": "Low Poly 3D",
+    "category": "xiaohongshu",
+    "subcategory": "3d-effects",
+    "tags": [
+      "3D",
+      "低面",
+      "low-poly",
+      "几何",
+      "polygon",
+      "游戏"
+    ],
+    "description_zh": "以低面数多边形构成的3D几何风格，棱角分明、色块清晰。兼具复古游戏感与现代设计美学，画面简洁但层次丰富。非常适合科技、游戏和教程类内容，在信息流中以独特的几何美感脱颖而出。",
+    "description_en": "3D geometric style built from low-polygon-count faceted surfaces with sharp edges and clear color blocks. Blends retro gaming aesthetics with modern design. Clean yet layered visuals perfect for tech, gaming, and tutorial content that stand out with unique geometric beauty.",
+    "prompt": "Create a Xiaohongshu cover image in low poly 3D style. Build all visual elements from flat-shaded triangular and polygonal facets, creating a distinctive geometric aesthetic. The main subject should be rendered as a low-polygon 3D model with visible triangular faces, each with slightly different shading to create depth. Use a limited but vibrant color palette with clear tonal variation between adjacent polygons. Apply flat shading without smooth interpolation to maintain the faceted look. The background should feature a low-poly landscape or abstract geometric pattern. Include angular, faceted 3D text that matches the low-poly aesthetic. Add dramatic directional lighting to emphasize the geometric planes. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The overall design should feel digital, geometric, and artistically minimal with a modern gaming-inspired quality.",
+    "prompt_tips": "加入'flat shading, no smooth interpolation'可确保多边形面片清晰可见。用'triangular facets with tonal variation'描述色彩变化。搭配深色背景能让低多边形物体更突出。",
+    "best_for": [
+      "科技数码",
+      "游戏相关",
+      "教程攻略",
+      "创意设计"
+    ],
+    "use_cases": [
+      "科技数码",
+      "教程",
+      "ACG/二次元",
+      "职场效率"
+    ],
+    "color_palette": [
+      "#2d3436",
+      "#00b894",
+      "#0984e3",
+      "#6c5ce7",
+      "#fdcb6e"
+    ],
+    "preview_image": "/images/previews/3d-low-poly.png",
+    "reference_images": [],
+    "difficulty": "medium"
+  },
+  {
+    "id": "3d-candy",
+    "name_zh": "糖果3D风",
+    "name_en": "3D Candy",
+    "category": "xiaohongshu",
+    "subcategory": "3d-effects",
+    "tags": [
+      "3D",
+      "糖果",
+      "candy",
+      "甜美",
+      "glossy",
+      "可爱"
+    ],
+    "description_zh": "以糖果般的光泽材质打造的3D渲染风格，色彩鲜艳甜美、表面光滑圆润。整体画面洋溢着甜蜜可爱的氛围，极具少女心。非常适合美妆护肤、美食甜品和穿搭类内容，点击率极高。",
+    "description_en": "3D rendering style featuring candy-like glossy materials with vibrant sweet colors and smooth rounded surfaces. The overall imagery radiates a cute, sugary atmosphere. Perfect for beauty, food dessert, and fashion content with exceptionally high click-through rates.",
+    "prompt": "Create a Xiaohongshu cover image in 3D candy style. Render all elements with glossy, sugary candy-like materials — think hard candy shine, gummy bear translucency, and lollipop swirl patterns. Use extremely vibrant, saturated candy colors: hot pink, lemon yellow, mint green, and berry purple. The main 3D objects should have a smooth, lacquered surface with bright specular highlights and colorful reflections. Include candy-themed decorative elements like wrapped sweets, sugar crystals, and dripping syrup effects. Text elements should appear as 3D candy letters with a glossy coating and subtle transparency. Background should be a sweet pastel gradient with scattered small candy pieces. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel deliciously sweet, playful, and visually appetizing with an irresistible candy shop aesthetic.",
+    "prompt_tips": "描述具体糖果类型（如'gummy bear translucency'、'hard candy shine'）更有画面感。加入'dripping syrup'或'sugar crystals'作为装饰元素。高饱和度配色是关键。",
+    "best_for": [
+      "美妆护肤",
+      "美食甜品",
+      "穿搭时尚",
+      "生活方式"
+    ],
+    "use_cases": [
+      "美妆护肤",
+      "美食",
+      "穿搭",
+      "生活方式"
+    ],
+    "color_palette": [
+      "#ff6b9d",
+      "#ffc75f",
+      "#9bf6ff",
+      "#c77dff",
+      "#ff85a1"
+    ],
+    "preview_image": "/images/previews/3d-candy.png",
+    "reference_images": [],
+    "difficulty": "medium"
+  },
+  {
+    "id": "3d-metallic",
+    "name_zh": "金属3D风",
+    "name_en": "3D Metallic",
+    "category": "xiaohongshu",
+    "subcategory": "3d-effects",
+    "tags": [
+      "3D",
+      "金属",
+      "metallic",
+      "chrome",
+      "奢华",
+      "质感"
+    ],
+    "description_zh": "以铬金属、液态金属等高级质感为特色的3D渲染风格。镜面反射与环境映射营造出极致奢华的视觉效果，自带高端大气属性。非常适合时尚奢品、科技数码和产品展示类内容。",
+    "description_en": "3D rendering style featuring chrome, liquid metal, and premium metallic textures. Mirror reflections and environment mapping create ultra-luxurious visual effects with inherent high-end appeal. Perfect for luxury fashion, tech, and product showcase content.",
+    "prompt": "Create a Xiaohongshu cover image with luxurious 3D metallic rendering. Feature chrome, brushed metal, and liquid mercury-like surfaces on all major elements. The main 3D objects should have highly reflective metallic finishes — mirror-polished chrome, rose gold, and platinum textures with accurate environment reflections. Apply dramatic studio lighting with sharp highlights and deep shadows to maximize the metallic sheen. Include flowing liquid metal effects and smooth metallic blobs that create an organic yet premium feel. Text should be rendered in 3D with a polished chrome or gold finish with visible reflections. The background should be dark and sophisticated — deep charcoal or midnight blue — to make the metallic elements pop. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should exude luxury, sophistication, and a premium editorial quality with stunning metallic realism.",
+    "prompt_tips": "指定金属类型（如'mirror chrome'、'rose gold'、'brushed titanium'）让质感更具体。深色背景最能衬托金属反光。加入'liquid metal flowing'效果增添动感。",
+    "best_for": [
+      "时尚奢品",
+      "科技数码",
+      "产品展示",
+      "穿搭配饰"
+    ],
+    "use_cases": [
+      "穿搭",
+      "产品展示",
+      "科技数码",
+      "生活方式"
+    ],
+    "color_palette": [
+      "#c0c0c0",
+      "#2d3436",
+      "#b8860b",
+      "#e8d5b7",
+      "#1a1a2e"
+    ],
+    "preview_image": "/images/previews/3d-metallic.png",
+    "reference_images": [],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "3d-miniature-world",
+    "name_zh": "微缩世界3D风",
+    "name_en": "3D Miniature World",
+    "category": "xiaohongshu",
+    "subcategory": "3d-effects",
+    "tags": [
+      "3D",
+      "微缩",
+      "miniature",
+      "移轴",
+      "diorama",
+      "治愈"
+    ],
+    "description_zh": "以移轴摄影般的微缩世界场景为特色的3D渲染风格。将真实场景缩小成精致可爱的模型效果，景深极浅，营造出玩具般的治愈感。非常适合旅行、美食和生活类内容，让观众忍不住放大细节欣赏。",
+    "description_en": "3D rendering style featuring tilt-shift miniature world scenes. Real-world scenes shrunk into exquisite diorama-like models with extremely shallow depth of field, creating a toy-like healing aesthetic. Perfect for travel, food, and lifestyle content that invites viewers to zoom in and explore details.",
+    "prompt": "Create a Xiaohongshu cover image in 3D miniature world style. Render the scene as a tiny, detailed diorama or tilt-shift miniature model viewed from a high bird's-eye angle. Apply extreme shallow depth of field with strong bokeh blur at the top and bottom edges, keeping only the center strip in sharp focus. All elements — buildings, people, vehicles, nature — should appear as meticulously crafted miniature models with slightly exaggerated proportions. Use warm, saturated colors with enhanced vibrancy to create the tilt-shift photography effect. Include tiny detailed props and accessories that reward close inspection. The lighting should be bright and even, like a well-lit model display. Add a subtle vignette effect around the edges. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel whimsical, detailed, adorable, and satisfyingly miniature like peering into a perfect tiny world.",
+    "prompt_tips": "高角度俯拍视角是关键，加入'bird's-eye view'或'top-down angle'。'Extreme shallow depth of field with bokeh'能强化微缩感。用高饱和度色彩增强模型玩具的质感。",
+    "best_for": [
+      "旅行风景",
+      "美食场景",
+      "生活方式",
+      "家居装修"
+    ],
+    "use_cases": [
+      "旅行",
+      "美食",
+      "生活方式",
+      "家居装修"
+    ],
+    "color_palette": [
+      "#f39c12",
+      "#e74c3c",
+      "#27ae60",
+      "#3498db",
+      "#f5f0e1"
+    ],
+    "preview_image": "/images/previews/3d-miniature-world.png",
+    "reference_images": [],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "3d-neon-glow",
+    "name_zh": "霓虹灯3D风",
+    "name_en": "3D Neon Glow",
+    "category": "xiaohongshu",
+    "subcategory": "3d-effects",
+    "tags": [
+      "3D",
+      "霓虹",
+      "neon",
+      "发光",
+      "glow",
+      "夜景"
+    ],
+    "description_zh": "以霓虹灯管为主要元素的3D渲染风格，灯管文字和图形发出明亮的彩色光芒。深色背景搭配鲜艳的灯光晕染，极具夜生活氛围和赛博朋克感。非常适合美食探店、夜生活和潮流类内容，视觉张力十足。",
+    "description_en": "3D rendering style featuring neon tube lighting as the primary element, with glowing text and graphics emitting vibrant colored light. Dark backgrounds paired with bright neon bloom effects create a nightlife atmosphere with cyberpunk vibes. Perfect for food discovery, nightlife, and trendy content with strong visual tension.",
+    "prompt": "Create a Xiaohongshu cover image in 3D neon glow style. Feature realistic 3D neon tube lights as the primary visual elements — bent glass tubes filled with glowing gas, mounted on a dark wall or floating in dark space. The neon tubes should emit bright, colorful light with visible glow, bloom, and light spill effects onto surrounding surfaces. Include both neon text and neon graphic outlines (icons, borders, decorative shapes). Use a dark background — deep navy, black, or dark brick wall — to maximize the neon contrast. Apply color bleeding where different neon colors overlap. Add subtle fog or haze to catch the neon light and create atmospheric depth. Include reflective surfaces like wet floors or glass to bounce the neon colors. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel electric, atmospheric, and vibrant with an authentic neon signage quality that lights up the dark.",
+    "prompt_tips": "用'glass tube filled with glowing gas'描述真实霓虹灯管质感。加入'wet floor reflections'让霓虹光有镜面倒影效果。'Subtle fog/haze'能增强灯光的氛围感和层次感。",
+    "best_for": [
+      "美食探店",
+      "夜生活",
+      "潮流文化",
+      "科技数码"
+    ],
+    "use_cases": [
+      "美食",
+      "生活方式",
+      "科技数码",
+      "穿搭"
+    ],
+    "color_palette": [
+      "#ff00ff",
+      "#00ffff",
+      "#ff3366",
+      "#0a0a2a",
+      "#ffff00"
+    ],
+    "preview_image": "/images/previews/3d-neon-glow.png",
     "reference_images": [],
     "difficulty": "medium"
   },
@@ -678,6 +1537,293 @@
     "difficulty": "advanced"
   },
   {
+    "id": "mind-map",
+    "name_zh": "思维导图风",
+    "name_en": "Mind Map",
+    "category": "xiaohongshu",
+    "subcategory": "info-display",
+    "tags": [
+      "思维导图",
+      "mind-map",
+      "知识",
+      "结构化",
+      "branch",
+      "学习"
+    ],
+    "description_zh": "以可视化思维导图为核心布局的信息展示风格。中心主题向外发散分支，层级清晰、逻辑分明，兼具美观性与实用性。非常适合学习笔记、知识科普和职场效率类内容，收藏率极高。",
+    "description_en": "Information display style centered on visual mind map layout. A central theme branches outward with clear hierarchy and logical flow, combining aesthetics with practicality. Perfect for study notes, knowledge sharing, and productivity content with exceptionally high save rates.",
+    "prompt": "Create a Xiaohongshu cover image in mind map style. Design a beautiful, visually engaging mind map with a prominent central node containing the main topic. From the center, extend 4-6 primary branches in different colors, each flowing organically outward with gentle curves. Each primary branch should have 2-3 secondary nodes with brief keyword text. Use rounded rectangle or pill-shaped nodes with soft colored backgrounds. Connect branches with smooth, tapered lines that thin as they extend outward. Apply a color-coding system where each main branch and its children share a color family. Include small relevant icons next to key nodes for visual interest. The background should be clean white or very light neutral. Add subtle shadows under nodes for depth. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel organized, visually clear, intellectually appealing, and easy to follow at a glance.",
+    "prompt_tips": "中心节点要足够大且醒目，用'prominent central node'强调。每条分支用不同色系区分，加入'color-coding system'。控制分支在4-6条，太多会显得杂乱。",
+    "best_for": [
+      "学习笔记",
+      "知识科普",
+      "职场效率",
+      "读书分享"
+    ],
+    "use_cases": [
+      "教程",
+      "科普知识",
+      "职场效率",
+      "读书笔记"
+    ],
+    "color_palette": [
+      "#4ecdc4",
+      "#ff6b6b",
+      "#45b7d1",
+      "#f9ca24",
+      "#f0f0f0"
+    ],
+    "preview_image": "/images/previews/mind-map.png",
+    "reference_images": [],
+    "difficulty": "medium"
+  },
+  {
+    "id": "xhs-recipe-card",
+    "name_zh": "食谱卡片风",
+    "name_en": "Recipe Card",
+    "category": "xiaohongshu",
+    "subcategory": "info-display",
+    "tags": [
+      "食谱",
+      "recipe",
+      "美食",
+      "步骤",
+      "card",
+      "烹饪"
+    ],
+    "description_zh": "以结构化食谱卡片为核心的信息展示风格。清晰分区展示菜名、食材清单、步骤说明和成品图，排版规整实用。是小红书美食类内容的热门模板，兼具颜值与功能性，收藏后可直接照做。",
+    "description_en": "Information display style centered on structured recipe cards. Clearly sectioned layout showing dish name, ingredient list, step-by-step instructions, and finished dish photo. A popular template for Xiaohongshu food content that balances visual appeal with practical functionality.",
+    "prompt": "Create a Xiaohongshu cover image in recipe card style. Design an elegant, structured recipe card layout with distinct sections: a header area with the dish name in beautiful typography, a hero photo zone for the finished dish, an ingredients list section with clean bullet points and quantities, and a numbered steps section with brief instructions. Use a warm, appetizing color scheme with cream or light wood-textured background. Frame the card with a subtle border or rounded corners. Include small food-related icons (timer, serving size, difficulty) as metadata badges near the top. Typography should mix a decorative header font with clean body text. Add decorative elements like herb sprigs, spice dots, or utensil illustrations in the margins. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel warm, organized, cookbook-quality, and immediately practical for anyone who wants to recreate the dish.",
+    "prompt_tips": "加入'cream background with subtle paper texture'增强质朴食谱感。用小图标标注烹饪时间、份量等元数据。食材和步骤分区要用明显的视觉分隔。",
+    "best_for": [
+      "美食烹饪",
+      "烘焙甜品",
+      "饮品制作",
+      "健康饮食"
+    ],
+    "use_cases": [
+      "美食",
+      "教程",
+      "生活方式",
+      "健身运动"
+    ],
+    "color_palette": [
+      "#d4a574",
+      "#f5f0e8",
+      "#c0392b",
+      "#27ae60",
+      "#5d4037"
+    ],
+    "preview_image": "/images/previews/xhs-recipe-card.png",
+    "reference_images": [],
+    "difficulty": "easy"
+  },
+  {
+    "id": "swot-matrix",
+    "name_zh": "四象限矩阵风",
+    "name_en": "Quadrant Matrix",
+    "category": "xiaohongshu",
+    "subcategory": "info-display",
+    "tags": [
+      "矩阵",
+      "matrix",
+      "四象限",
+      "对比",
+      "分析",
+      "SWOT"
+    ],
+    "description_zh": "以2x2四象限矩阵为核心的信息展示风格，将内容分成四个维度清晰对比。布局规整对称，适合分析评测和对比类内容。逻辑感强、信息密度高，非常适合科普、测评和职场效率类帖子。",
+    "description_en": "Information display style centered on a 2x2 quadrant matrix layout, dividing content into four clear dimensions for comparison. Symmetrical and structured layout ideal for analysis, reviews, and comparison content. High logical clarity and information density, perfect for educational and productivity posts.",
+    "prompt": "Create a Xiaohongshu cover image in quadrant matrix style. Design a clean 2x2 grid matrix with four distinct quadrants, each representing a different category or dimension. The matrix should have clear labeled axes (horizontal and vertical) with descriptive labels at each end. Each quadrant should have its own background color (four complementary colors at low opacity), a clear title label, and space for 3-4 bullet points or key items. Place a bold title above the matrix explaining what is being compared. Use thin, clean dividing lines to separate the quadrants with a subtle cross or plus pattern. Include small relevant icons in each quadrant corner for visual identification. The typography should be clean and hierarchical — bold quadrant titles, regular body text. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel analytical, organized, professional, and intellectually satisfying with clear visual logic.",
+    "prompt_tips": "四个象限用低透明度的互补色区分，避免颜色过深抢夺文字注意力。坐标轴标签要简短有力。每个象限内容控制在3-4条，保持信息密度适中。",
+    "best_for": [
+      "分析评测",
+      "科普知识",
+      "职场效率",
+      "教程攻略"
+    ],
+    "use_cases": [
+      "科普知识",
+      "职场效率",
+      "教程",
+      "产品展示"
+    ],
+    "color_palette": [
+      "#74b9ff",
+      "#a29bfe",
+      "#fd79a8",
+      "#55efc4",
+      "#f8f9fa"
+    ],
+    "preview_image": "/images/previews/swot-matrix.png",
+    "reference_images": [],
+    "difficulty": "easy"
+  },
+  {
+    "id": "data-story",
+    "name_zh": "数据故事风",
+    "name_en": "Data Storytelling",
+    "category": "xiaohongshu",
+    "subcategory": "info-display",
+    "tags": [
+      "数据",
+      "data",
+      "可视化",
+      "图表",
+      "storytelling",
+      "趋势"
+    ],
+    "description_zh": "以叙事性数据可视化为核心的信息展示风格，将枯燥数据转化为有故事感的视觉叙述。巧妙运用图表、数字高亮和趋势线，让数据直观易懂。非常适合科普、趋势分析和行业洞察类内容。",
+    "description_en": "Information display style centered on narrative data visualization, transforming raw data into story-driven visual narratives. Cleverly uses charts, highlighted numbers, and trend lines to make data intuitive and accessible. Perfect for educational content, trend analysis, and industry insight posts.",
+    "prompt": "Create a Xiaohongshu cover image in data storytelling style. Design a narrative-driven data visualization layout that tells a compelling story with numbers. Feature one hero statistic in oversized, bold typography as the attention-grabbing headline. Below it, include 2-3 supporting data visualizations: a clean line chart showing a trend, a simple bar chart for comparisons, or a donut/pie chart for proportions. Use a cohesive color scheme with one accent color for emphasis on key data points. Add brief annotation labels with arrows pointing to interesting data points. Include a clear narrative title at the top that frames the data story. The background should be clean white or very light gray. Use iconography to represent data categories. Ensure all charts are simplified and stylized — not Excel-looking but design-forward. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel insightful, modern, credible, and visually engaging while making complex data instantly understandable.",
+    "prompt_tips": "核心数据用超大字号突出，加入'oversized bold hero statistic'。图表要简化风格化，避免像Excel截图。用箭头标注关键数据点的趋势变化。",
+    "best_for": [
+      "科普知识",
+      "趋势分析",
+      "行业洞察",
+      "职场效率"
+    ],
+    "use_cases": [
+      "科普知识",
+      "职场效率",
+      "教程",
+      "科技数码"
+    ],
+    "color_palette": [
+      "#2d3436",
+      "#0984e3",
+      "#00cec9",
+      "#fdcb6e",
+      "#f5f6fa"
+    ],
+    "preview_image": "/images/previews/data-story.png",
+    "reference_images": [],
+    "difficulty": "medium"
+  },
+  {
+    "id": "flowchart-process",
+    "name_zh": "流程图风",
+    "name_en": "Flowchart",
+    "category": "xiaohongshu",
+    "subcategory": "info-display",
+    "tags": [
+      "流程图",
+      "flowchart",
+      "步骤",
+      "process",
+      "箭头",
+      "教程"
+    ],
+    "description_zh": "以清晰流程图为核心的信息展示风格，用箭头和节点串联完整过程。方向明确、步骤清晰，适合表达有先后顺序的内容。非常适合教程攻略、决策指南和科普类帖子，一图看懂整个流程。",
+    "description_en": "Information display style centered on clear flowcharts, connecting steps with arrows and nodes to visualize complete processes. Clear direction and well-defined steps make it perfect for tutorials, decision guides, and educational posts — understand the entire process at a glance.",
+    "prompt": "Create a Xiaohongshu cover image in flowchart style. Design a visually polished process flowchart that guides the viewer through a series of connected steps. Use rounded rectangle nodes for process steps, diamond shapes for decision points, and clean directional arrows connecting them in a logical top-to-bottom or left-to-right flow. Each node should contain brief text and have a colored background using a gradient progression (e.g., from cool to warm colors as the process advances). Number each step clearly. Include occasional branch paths for decision points with Yes/No labels. Add small relevant icons inside or beside each node. Use consistent spacing between nodes with smooth curved or angled connector arrows. The background should be clean and uncluttered. Include a clear title at the top describing the process. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel logical, sequential, easy to follow, and professionally diagrammatic while remaining visually appealing for social media.",
+    "prompt_tips": "用渐变色系（如从蓝到绿）表示流程推进。决策节点用菱形区分普通步骤。箭头要清晰且带方向，加入'smooth curved connector arrows'。步骤控制在5-8个最佳。",
+    "best_for": [
+      "教程攻略",
+      "决策指南",
+      "科普知识",
+      "职场效率"
+    ],
+    "use_cases": [
+      "教程",
+      "科普知识",
+      "职场效率",
+      "生活方式"
+    ],
+    "color_palette": [
+      "#6c5ce7",
+      "#a29bfe",
+      "#00cec9",
+      "#81ecec",
+      "#f0f0f0"
+    ],
+    "preview_image": "/images/previews/flowchart-process.png",
+    "reference_images": [],
+    "difficulty": "medium"
+  },
+  {
+    "id": "rating-scorecard",
+    "name_zh": "评分卡片风",
+    "name_en": "Rating Scorecard",
+    "category": "xiaohongshu",
+    "subcategory": "info-display",
+    "tags": [
+      "评分",
+      "rating",
+      "测评",
+      "scorecard",
+      "星级",
+      "对比"
+    ],
+    "description_zh": "以星级评分和分项得分为核心的信息展示风格，将测评结论量化为可视化评分。总分醒目、分项清晰，兼具权威感和易读性。非常适合产品测评、美妆护肤和美食探店类内容，帮助用户快速做决策。",
+    "description_en": "Information display style centered on star ratings and itemized scores, quantifying review conclusions into visual ratings. Prominent overall scores with clear category breakdowns combine authority with readability. Perfect for product reviews, beauty, and food discovery content that helps users make quick decisions.",
+    "prompt": "Create a Xiaohongshu cover image in rating scorecard style. Design an elegant review scorecard layout with a prominent overall rating displayed large at the top — a big number (e.g., 8.5/10) with filled star icons. Below the hero score, include 5-6 individual category ratings, each shown as a horizontal progress bar or star row with the category name on the left and score on the right. Use a color-coded system: green for high scores, yellow for medium, red for low. Include a brief verdict or one-line summary next to the overall score. Add a product/subject name and image thumbnail area at the top. The bottom section can include pros and cons columns with checkmark and X icons. Use clean card-style framing with rounded corners and subtle shadows. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel authoritative, trustworthy, easy to scan, and immediately informative like a professional review publication.",
+    "prompt_tips": "总分用超大字号+星星图标突出显示。分项评分用进度条比纯数字更直观。用绿黄红色系区分高中低评分。底部加优缺点栏增加完整性。",
+    "best_for": [
+      "产品测评",
+      "美妆护肤",
+      "美食探店",
+      "科技数码"
+    ],
+    "use_cases": [
+      "产品展示",
+      "美妆护肤",
+      "美食",
+      "科技数码"
+    ],
+    "color_palette": [
+      "#f39c12",
+      "#e74c3c",
+      "#2ecc71",
+      "#34495e",
+      "#ffffff"
+    ],
+    "preview_image": "/images/previews/rating-scorecard.png",
+    "reference_images": [],
+    "difficulty": "easy"
+  },
+  {
+    "id": "stat-counter",
+    "name_zh": "数字计数器风",
+    "name_en": "Stat Counter",
+    "category": "xiaohongshu",
+    "subcategory": "info-display",
+    "tags": [
+      "数字",
+      "counter",
+      "统计",
+      "成就",
+      "大号数字",
+      "总结"
+    ],
+    "description_zh": "以大号数字为视觉核心的信息展示风格，用醒目的统计数据搭配简短标签传递关键信息。数字冲击力强，信息传达高效直接。非常适合年度总结、成就展示和数据回顾类内容，让数据成为主角。",
+    "description_en": "Information display style with large numbers as the visual core, using prominent statistics paired with brief labels to convey key information. Strong numerical impact with efficient, direct communication. Perfect for annual summaries, achievement showcases, and data retrospective content that lets numbers take center stage.",
+    "prompt": "Create a Xiaohongshu cover image in stat counter style. Design a bold, number-focused layout where 3-5 oversized statistics are the heroes of the composition. Each stat should feature an extremely large, bold number (using a modern sans-serif or display font) with a small descriptive label beneath it and an optional unit or suffix. Arrange the stats in a clean grid or vertical stack with generous spacing. Use a single accent color to highlight the numbers while labels remain in neutral gray or dark tones. Include subtle decorative elements — thin divider lines, small icons next to each stat, or minimal background geometric patterns. Add a contextual headline at the top explaining what the numbers represent. The background should be clean with either a solid color or very subtle gradient. Consider adding small trend arrows (up/down) next to numbers to show direction. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel impactful, data-driven, modern, and attention-grabbing with the raw power of big, bold numbers.",
+    "prompt_tips": "数字字号要足够大，至少是标签文字的3-4倍。用单一强调色让数字群统一醒目。3-5个数字最佳，太多会分散注意力。加入趋势箭头增加动态感。",
+    "best_for": [
+      "年度总结",
+      "成就展示",
+      "数据回顾",
+      "行业洞察"
+    ],
+    "use_cases": [
+      "职场效率",
+      "科普知识",
+      "科技数码",
+      "健身运动"
+    ],
+    "color_palette": [
+      "#6c5ce7",
+      "#2d3436",
+      "#dfe6e9",
+      "#ffffff",
+      "#a29bfe"
+    ],
+    "preview_image": "/images/previews/stat-counter.png",
+    "reference_images": [],
+    "difficulty": "easy"
+  },
+  {
     "id": "photography",
     "name_zh": "摄影氛围风",
     "name_en": "Photography Mood",
@@ -794,6 +1940,288 @@
       "#2c3e50"
     ],
     "preview_image": "/images/previews/before-after.png",
+    "reference_images": [],
+    "difficulty": "easy"
+  },
+  {
+    "id": "film-diary",
+    "name_zh": "胶片日记风",
+    "name_en": "Film Diary",
+    "category": "xiaohongshu",
+    "subcategory": "photo-mood",
+    "tags": [
+      "胶片",
+      "日记",
+      "宝丽来",
+      "film",
+      "polaroid",
+      "diary"
+    ],
+    "description_zh": "模拟宝丽来和胶片条的日记式布局，带有手写字体和做旧纸张质感。画面温暖怀旧，像翻开一本私人相册，适合日常生活分享和情感记录类内容。",
+    "description_en": "A diary-style layout simulating Polaroid frames and film strips with handwritten fonts and aged paper textures. Warm and nostalgic, like flipping through a personal photo album. Perfect for daily life sharing and emotional storytelling.",
+    "prompt": "Create a Xiaohongshu cover image in a film diary style. Arrange 2-3 Polaroid-style photo frames slightly tilted on a warm cream or kraft paper textured background. Each frame should have the classic white Polaroid border with a wider bottom edge. Add handwritten-style captions beneath or beside the photos using a casual script font. Include subtle film strip sprocket holes along one edge and a faint coffee ring stain or washi tape detail for authenticity. The overall color palette should be warm — amber, cream, soft brown — with slightly desaturated, vintage-toned photos. Add a date stamp in the corner using a typewriter font. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel intimate, personal, and warmly nostalgic — like a treasured diary page.",
+    "prompt_tips": "加入'washi tape'或'paper clip'等小物件可增加手作感。照片色调建议偏暖黄（warm amber tone）。手写字体用'casual handwriting font'效果最自然。",
+    "best_for": [
+      "日常分享",
+      "旅行记录",
+      "情感表达",
+      "生活记录"
+    ],
+    "use_cases": [
+      "生活方式",
+      "旅行",
+      "读书笔记"
+    ],
+    "color_palette": [
+      "#f5e6c8",
+      "#d4a574",
+      "#8b6f4e",
+      "#c9956b",
+      "#3d2b1f"
+    ],
+    "preview_image": "/images/previews/film-diary.png",
+    "reference_images": [],
+    "difficulty": "medium"
+  },
+  {
+    "id": "light-and-shadow",
+    "name_zh": "光影风",
+    "name_en": "Light & Shadow",
+    "category": "xiaohongshu",
+    "subcategory": "photo-mood",
+    "tags": [
+      "光影",
+      "明暗对比",
+      "light",
+      "shadow",
+      "dramatic"
+    ],
+    "description_zh": "以戏剧性的明暗对比为核心的视觉风格。利用强烈的光线方向感和阴影切割画面，营造出深沉而富有张力的艺术氛围。适合传递情绪深度和高级审美感的内容。",
+    "description_en": "A visual style built on dramatic light-dark contrast. Uses strong directional lighting and shadow to carve the frame, creating a deep, tension-filled artistic atmosphere. Ideal for content conveying emotional depth and refined aesthetics.",
+    "prompt": "Create a Xiaohongshu cover image emphasizing dramatic light and shadow. The composition should feature strong directional lighting from one side, casting bold geometric shadows across the frame. Use a high-contrast palette — deep blacks against bright highlights with minimal midtones. The subject should be partially illuminated, with shadows creating mystery and depth. Text should be placed in the light areas using a refined serif or thin sans-serif font in white or light gold. Include venetian blind shadows, window light patterns, or architectural shadow lines for visual interest. The overall mood should be cinematic and moody with a slightly desaturated color grade. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel like a still from a noir film — mysterious, elegant, and visually striking.",
+    "prompt_tips": "指定光线方向（如'side lighting from left'）效果更精准。加入'venetian blind shadows'或'window light'可增加层次感。背景建议用深色调，文字放在高光区域更易阅读。",
+    "best_for": [
+      "艺术摄影",
+      "人像展示",
+      "品牌形象",
+      "情感表达"
+    ],
+    "use_cases": [
+      "生活方式",
+      "穿搭",
+      "美妆护肤",
+      "家居装修"
+    ],
+    "color_palette": [
+      "#0a0a0a",
+      "#2d2d2d",
+      "#c8b89a",
+      "#f0e6d3",
+      "#1a1a1a"
+    ],
+    "preview_image": "/images/previews/light-and-shadow.png",
+    "reference_images": [],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "drone-aerial",
+    "name_zh": "航拍俯视风",
+    "name_en": "Aerial / Drone View",
+    "category": "xiaohongshu",
+    "subcategory": "photo-mood",
+    "tags": [
+      "航拍",
+      "俯视",
+      "鸟瞰",
+      "aerial",
+      "drone",
+      "overhead"
+    ],
+    "description_zh": "以无人机鸟瞰视角呈现的震撼构图风格。自上而下的俯视角度揭示地面的几何图案和色彩对比，将日常场景转化为抽象艺术。适合旅行、建筑和自然景观类内容。",
+    "description_en": "A stunning composition style from drone bird's-eye perspective. The top-down angle reveals geometric patterns and color contrasts on the ground, transforming everyday scenes into abstract art. Ideal for travel, architecture, and landscape content.",
+    "prompt": "Create a Xiaohongshu cover image from a dramatic aerial drone perspective, looking straight down. The composition should reveal geometric patterns, color blocks, and textures visible only from above — such as rooftops, roads, coastlines, or agricultural fields. Use a rich, saturated color palette with strong contrast between elements. The overhead view should create an almost abstract, graphic quality. Place minimal text along one edge using a bold modern sans-serif font with a semi-transparent background strip for readability. Include a small drone/GPS coordinate overlay detail in one corner for authenticity. The image should have sharp clarity and vivid colors typical of drone photography. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel grand, perspective-shifting, and visually mesmerizing — revealing beauty invisible from ground level.",
+    "prompt_tips": "强调'looking straight down'可获得最佳俯视效果。加入'geometric patterns from above'增强抽象美感。指定具体场景（如'turquoise coastline'或'autumn forest'）颜色更丰富。",
+    "best_for": [
+      "旅行攻略",
+      "城市探索",
+      "自然风光",
+      "建筑鉴赏"
+    ],
+    "use_cases": [
+      "旅行",
+      "生活方式",
+      "科普知识"
+    ],
+    "color_palette": [
+      "#1e6b5a",
+      "#e8c547",
+      "#2980b9",
+      "#d35400",
+      "#2c3e50"
+    ],
+    "preview_image": "/images/previews/drone-aerial.png",
+    "reference_images": [],
+    "difficulty": "medium"
+  },
+  {
+    "id": "golden-hour",
+    "name_zh": "黄金时刻风",
+    "name_en": "Golden Hour",
+    "category": "xiaohongshu",
+    "subcategory": "photo-mood",
+    "tags": [
+      "黄金时刻",
+      "夕阳",
+      "暖调",
+      "golden-hour",
+      "sunset",
+      "warm"
+    ],
+    "description_zh": "捕捉日落前一小时的金色魔法光线。整体画面笼罩在温暖的琥珀色调中，光线柔和且带有微妙的镜头光晕，营造出浪漫且令人向往的视觉氛围。适合人像、美食和户外内容。",
+    "description_en": "Captures the magical golden light from the hour before sunset. The entire frame bathes in warm amber tones with soft lighting and subtle lens flares, creating a romantic and aspirational visual mood. Perfect for portraits, food, and outdoor content.",
+    "prompt": "Create a Xiaohongshu cover image bathed in golden hour light. The entire composition should glow with warm amber, honey, and soft gold tones as if shot during the magic hour before sunset. Include subtle lens flare streaks and a soft backlit halo effect around the main subject. Shadows should be long and warm-toned rather than cool. The background should have a slightly hazy, dreamy quality with gentle bokeh. Use elegant text in warm white or deep gold with a delicate serif font, positioned where the light naturally draws attention. Add a subtle warm gradient overlay from corner to corner. The color grade should emphasize golden yellows, warm oranges, and soft peach tones with lifted shadows. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel magical, warm, and romantically luminous — capturing that fleeting perfect light.",
+    "prompt_tips": "加入'backlit'和'lens flare'可增强黄金时刻的真实感。避免使用冷色调。指定'warm color grade with lifted shadows'能让暗部也保持温暖。人物建议逆光拍摄效果最佳。",
+    "best_for": [
+      "人像摄影",
+      "美食探店",
+      "户外运动",
+      "日落打卡"
+    ],
+    "use_cases": [
+      "旅行",
+      "美食",
+      "穿搭",
+      "生活方式"
+    ],
+    "color_palette": [
+      "#f7a940",
+      "#e8873d",
+      "#ffd194",
+      "#c46b2e",
+      "#2b1810"
+    ],
+    "preview_image": "/images/previews/golden-hour.png",
+    "reference_images": [],
+    "difficulty": "easy"
+  },
+  {
+    "id": "rain-mood",
+    "name_zh": "雨天氛围风",
+    "name_en": "Rainy Mood",
+    "category": "xiaohongshu",
+    "subcategory": "photo-mood",
+    "tags": [
+      "雨天",
+      "氛围",
+      "治愈",
+      "rainy",
+      "cozy",
+      "moody"
+    ],
+    "description_zh": "雨天的朦胧美学与治愈氛围。透过雨滴模糊的玻璃窗看世界，画面带有柔和的冷灰蓝调和水汽质感，营造出安静内省的情绪。适合咖啡、阅读和独处主题内容。",
+    "description_en": "The hazy aesthetics and healing atmosphere of rainy days. Views the world through rain-blurred glass with soft cool grey-blue tones and misty textures, creating a quiet and introspective mood. Perfect for coffee, reading, and solitude-themed content.",
+    "prompt": "Create a Xiaohongshu cover image with a rainy day atmosphere. The main visual should appear as if viewed through a rain-covered window — with visible raindrops on glass, streaks of water, and a soft out-of-focus background behind the glass. Use a cool, muted color palette of slate blue, soft grey, and desaturated teal with occasional warm accents from interior lights or a cup of coffee. Include water droplet details that catch and refract light. The overall image should have a slight gaussian blur or soft focus effect. Text should be in a clean, light font — white or pale blue — as if written on fogged glass. Add subtle condensation or fog effect around the edges. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel contemplative, cozy, and beautifully melancholic — embracing the poetry of rainy days.",
+    "prompt_tips": "加入'raindrops on glass'和'soft bokeh city lights'可增强雨天真实感。暖色点缀（如咖啡杯的暖光）能平衡冷色调。文字可模拟在玻璃上手写的效果。",
+    "best_for": [
+      "咖啡探店",
+      "阅读分享",
+      "情感文字",
+      "治愈内容"
+    ],
+    "use_cases": [
+      "生活方式",
+      "读书笔记",
+      "美食"
+    ],
+    "color_palette": [
+      "#6b7d8e",
+      "#94a3b8",
+      "#c4d1db",
+      "#3d5a6e",
+      "#2c3e50"
+    ],
+    "preview_image": "/images/previews/rain-mood.png",
+    "reference_images": [],
+    "difficulty": "medium"
+  },
+  {
+    "id": "mirror-reflection",
+    "name_zh": "镜面反射风",
+    "name_en": "Mirror Reflection",
+    "category": "xiaohongshu",
+    "subcategory": "photo-mood",
+    "tags": [
+      "镜面",
+      "倒影",
+      "对称",
+      "mirror",
+      "reflection",
+      "symmetry"
+    ],
+    "description_zh": "利用水面、玻璃或镜面的反射创造完美对称构图。上下或左右的镜像效果带来强烈的视觉冲击力和超现实美感，将现实场景升华为艺术画面。适合建筑、旅行和城市探索内容。",
+    "description_en": "Creates perfectly symmetrical compositions using water, glass, or mirror reflections. The mirrored effect delivers powerful visual impact and surreal beauty, elevating real scenes into art. Ideal for architecture, travel, and urban exploration content.",
+    "prompt": "Create a Xiaohongshu cover image featuring a stunning mirror reflection composition. The frame should be split — roughly half real scene and half its perfect reflection in water, glass, or a polished surface. Achieve near-perfect symmetry along the reflection axis. The reflected portion should have slightly altered tones — perhaps deeper, more saturated, or with gentle ripple distortion if using water. Use a clean, balanced color palette that emphasizes the symmetry. Place minimal text centered on the reflection axis or along one side using a geometric sans-serif font. The composition should create a mesmerizing sense of infinite space and visual harmony. Include architectural elements, a city skyline, or natural landscape that becomes abstract art through reflection. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel meditative, visually precise, and awe-inspiring — where reality and reflection merge into art.",
+    "prompt_tips": "强调'perfect symmetry'和'reflection axis'可获得最佳对称效果。水面倒影加入'slight ripple distortion'更自然。拍摄时间选黄昏或夜晚，反射效果更明显。",
+    "best_for": [
+      "建筑摄影",
+      "旅行打卡",
+      "城市探索",
+      "自然风光"
+    ],
+    "use_cases": [
+      "旅行",
+      "生活方式",
+      "家居装修"
+    ],
+    "color_palette": [
+      "#1a2a3a",
+      "#4a90d9",
+      "#c0d6e8",
+      "#2c5282",
+      "#0d1b2a"
+    ],
+    "preview_image": "/images/previews/mirror-reflection.png",
+    "reference_images": [],
+    "difficulty": "medium"
+  },
+  {
+    "id": "bokeh-dreamy",
+    "name_zh": "焦外光斑风",
+    "name_en": "Bokeh Dreamy",
+    "category": "xiaohongshu",
+    "subcategory": "photo-mood",
+    "tags": [
+      "散景",
+      "梦幻",
+      "虚化",
+      "bokeh",
+      "dreamy",
+      "blur"
+    ],
+    "description_zh": "以重度背景虚化和梦幻光斑为特色的浪漫美学。前景主体清晰锐利，背景化为柔美的圆形光斑和色彩渐变，创造出如梦似幻的层次感。适合人像、产品特写和浪漫主题内容。",
+    "description_en": "A romantic aesthetic featuring heavy background blur and dreamy bokeh light spots. The foreground subject stays sharp while the background dissolves into soft circular light orbs and color gradients, creating a dreamlike depth. Perfect for portraits, product close-ups, and romantic themes.",
+    "prompt": "Create a Xiaohongshu cover image with a dreamy bokeh effect. The main subject should be crisp and in sharp focus in the foreground, while the background is heavily blurred into soft, circular bokeh light spots. The bokeh orbs should be large, luminous, and overlap in varying sizes — appearing in warm golds, soft pinks, or cool blues depending on the scene. Add a gentle glow or bloom effect around the subject where it meets the bokeh background. The depth of field should be extremely shallow, creating a clear separation between subject and background. Use elegant, lightweight typography in white or soft pastel that floats within the bokeh area. Include subtle light leak or prism rainbow accents. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel ethereal, romantic, and visually enchanting — like peering through a dream.",
+    "prompt_tips": "指定光斑颜色（如'warm golden bokeh'或'cool blue bokeh'）可控制氛围。加入'light leak effect'增加梦幻感。前景主体越靠近镜头，虚化效果越明显。",
+    "best_for": [
+      "人像摄影",
+      "产品特写",
+      "浪漫主题",
+      "夜景"
+    ],
+    "use_cases": [
+      "产品展示",
+      "美妆护肤",
+      "穿搭",
+      "生活方式"
+    ],
+    "color_palette": [
+      "#f5c6d0",
+      "#ffd700",
+      "#e8b4c8",
+      "#7b68ee",
+      "#1a1a2e"
+    ],
+    "preview_image": "/images/previews/bokeh-dreamy.png",
     "reference_images": [],
     "difficulty": "easy"
   },
@@ -3753,6 +5181,285 @@
     "preview_image": "/images/previews/sticker-sheet.png",
     "reference_images": [],
     "difficulty": "easy"
+  },
+  {
+    "id": "xhs-pixel-art",
+    "name_zh": "像素风",
+    "name_en": "Pixel Art",
+    "category": "xiaohongshu",
+    "subcategory": "trending",
+    "tags": [
+      "像素",
+      "复古游戏",
+      "8bit",
+      "pixel",
+      "retro-game"
+    ],
+    "description_zh": "致敬8-bit和16-bit时代的像素艺术风格。用方块像素构建图案和角色，搭配鲜明的有限色板和像素字体，充满复古游戏的趣味性和怀旧感。适合游戏、科技和怀旧主题内容。",
+    "description_en": "A pixel art style paying homage to the 8-bit and 16-bit era. Builds visuals and characters from square pixels with vivid limited palettes and pixel fonts, full of retro gaming charm and nostalgia. Ideal for gaming, tech, and nostalgia-themed content.",
+    "prompt": "Create a Xiaohongshu cover image in pixel art style. The entire design should be rendered in chunky, visible pixels reminiscent of 16-bit era video games. Use a limited but vibrant color palette of 8-12 colors with no gradients — only flat pixel blocks. The main visual elements should be pixel-art illustrations with clear outlines and deliberate dithering patterns for shading. Text should use a pixel/bitmap font that matches the aesthetic. Include pixel art decorative elements like hearts, stars, or small icons. The background can feature a simple pixel pattern or gradient made of visible color steps. Add a thin pixel border frame around the composition. Maintain the chunky, grid-aligned aesthetic throughout — every element should feel deliberately pixelated. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel playful, nostalgic, and charmingly lo-fi — like a beautiful scene from a classic video game.",
+    "prompt_tips": "限制色板在8-12色内效果最像素。加入'dithering pattern'模拟经典像素阴影。避免使用渐变，所有过渡应该是可见的色阶跳跃。",
+    "best_for": [
+      "游戏内容",
+      "科技分享",
+      "怀旧主题",
+      "创意设计"
+    ],
+    "use_cases": [
+      "ACG/二次元",
+      "科技数码",
+      "生活方式"
+    ],
+    "color_palette": [
+      "#ff6b6b",
+      "#4ecdc4",
+      "#ffe66d",
+      "#2d3436",
+      "#6c5ce7"
+    ],
+    "preview_image": "/images/previews/xhs-pixel-art.png",
+    "reference_images": [],
+    "difficulty": "medium"
+  },
+  {
+    "id": "risograph",
+    "name_zh": "日式印刷风",
+    "name_en": "Risograph Print",
+    "category": "xiaohongshu",
+    "subcategory": "trending",
+    "tags": [
+      "印刷",
+      "叠色",
+      "risograph",
+      "print",
+      "overlay"
+    ],
+    "description_zh": "模拟Risograph孔版印刷的独特美学。通过有限的专色叠印产生丰富的色彩层次和半调网点纹理，带有轻微的套准偏移和颗粒质感。设计圈大热的复古印刷风格，充满手工艺术气息。",
+    "description_en": "Simulates the unique Risograph stencil printing aesthetic. Creates rich color layers through limited spot-color overprinting with halftone dot textures, slight registration offset, and grain. A design-circle favorite retro print style full of handcrafted artistic charm.",
+    "prompt": "Create a Xiaohongshu cover image in Risograph print style. Use only 2-3 spot colors (such as fluorescent pink, teal, and golden yellow) that overlap to create additional mixed hues in the overlap areas. Apply visible halftone dot patterns and slight misregistration offset between color layers for authenticity. Include grain and paper texture throughout — the background should look like off-white recycled paper stock. Illustrations should be bold and graphic with flat shapes, avoiding photorealism. Text should be chunky and slightly rough-edged as if screen-printed. Add intentional imperfections like ink splatters, uneven coverage, or edge bleed. The overall aesthetic should feel handmade and artisanal. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel indie, tactile, and beautifully imperfect — like a limited-edition zine print.",
+    "prompt_tips": "只用2-3种专色叠印效果最正宗。加入'halftone dots'和'slight misregistration'是关键细节。底纸用'off-white recycled paper texture'更有手工感。",
+    "best_for": [
+      "创意设计",
+      "独立品牌",
+      "艺术展览",
+      "文化活动"
+    ],
+    "use_cases": [
+      "生活方式",
+      "产品展示",
+      "教程"
+    ],
+    "color_palette": [
+      "#ff4081",
+      "#00b8a9",
+      "#f6d55c",
+      "#f0e8d8",
+      "#2d3436"
+    ],
+    "preview_image": "/images/previews/risograph.png",
+    "reference_images": [],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "brutalist",
+    "name_zh": "粗野主义风",
+    "name_en": "Brutalist Design",
+    "category": "xiaohongshu",
+    "subcategory": "trending",
+    "tags": [
+      "粗野主义",
+      "反设计",
+      "brutalist",
+      "raw",
+      "industrial"
+    ],
+    "description_zh": "打破传统美学规则的反设计风格。以粗粝的排版、原始的界面元素、高对比黑白配色和故意的「未经修饰」感为特征。在科技和创意领域极具先锋性和辨识度，适合敢于突破常规的内容。",
+    "description_en": "An anti-design style that breaks traditional aesthetic rules. Features raw typography, unpolished UI elements, high-contrast black-and-white palettes, and deliberate roughness. Highly avant-garde in tech and creative fields, perfect for convention-breaking content.",
+    "prompt": "Create a Xiaohongshu cover image in brutalist design style. Use a stark, high-contrast palette — primarily black, white, and one harsh accent color (electric red, neon green, or safety yellow). Typography should be oversized, overlapping, and confrontational — mix extremely large bold type with tiny monospace text. Embrace raw, unfinished aesthetics: visible grid lines, thick black borders, uneven spacing, and stark geometric shapes. Include elements that feel intentionally unpolished — like exposed HTML/code snippets, system font references, or raw wireframe elements. The layout should feel dense and aggressive, breaking conventional design harmony. No rounded corners, no soft gradients — only hard edges and brutal contrasts. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel provocative, raw, and unapologetically bold — anti-beauty that becomes its own powerful aesthetic.",
+    "prompt_tips": "字体越大越粗越有冲击力，可混用衬线和无衬线体。加入'exposed grid lines'和'monospace code snippets'增加原始感。配色严格控制在黑白+一个强调色。",
+    "best_for": [
+      "科技产品",
+      "创意展示",
+      "先锋艺术",
+      "独立品牌"
+    ],
+    "use_cases": [
+      "科技数码",
+      "职场效率",
+      "产品展示"
+    ],
+    "color_palette": [
+      "#000000",
+      "#ffffff",
+      "#ff0000",
+      "#1a1a1a",
+      "#cccccc"
+    ],
+    "preview_image": "/images/previews/brutalist.png",
+    "reference_images": [],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "chinese-traditional",
+    "name_zh": "国潮新中式",
+    "name_en": "New Chinese Style",
+    "category": "xiaohongshu",
+    "subcategory": "trending",
+    "tags": [
+      "国潮",
+      "新中式",
+      "传统文化",
+      "chinese",
+      "guochao"
+    ],
+    "description_zh": "传统中国美学与现代设计的创新融合。以水墨、祥云、印章等经典元素搭配现代排版和配色，既有东方韵味又不失时尚感。小红书上最受欢迎的文化类风格之一，适合传统文化和国潮品牌内容。",
+    "description_en": "An innovative fusion of traditional Chinese aesthetics with modern design. Combines classic elements like ink wash, auspicious clouds, and seal stamps with contemporary typography and colors. One of Xiaohongshu's most popular cultural styles, ideal for traditional culture and guochao brand content.",
+    "prompt": "Create a Xiaohongshu cover image in New Chinese Style (国潮). Blend traditional Chinese visual elements with modern design sensibility. Include ink wash (水墨) brush strokes, auspicious cloud patterns (祥云), or mountain silhouettes as background motifs. Use a refined color palette of cinnabar red, ink black, gold, and off-white rice paper tones. Typography should mix traditional Chinese calligraphy with modern sans-serif — large brush-style headings with clean body text. Add a red seal stamp (印章) element and subtle paper or silk texture. Decorative details can include traditional patterns like wave motifs, plum blossoms, or lattice borders reinterpreted in a contemporary graphic style. Balance negative space in the Eastern tradition with bold modern composition. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel culturally rich yet contemporary — honoring tradition while embracing modern aesthetics.",
+    "prompt_tips": "朱砂红+墨黑+金色是最经典的国潮配色。加入'ink wash brush strokes'和'red seal stamp'是点睛之笔。传统纹样（如祥云、回纹）不要过多，点缀即可。",
+    "best_for": [
+      "传统文化",
+      "国潮品牌",
+      "节日主题",
+      "茶道美学"
+    ],
+    "use_cases": [
+      "生活方式",
+      "美食",
+      "产品展示",
+      "教程"
+    ],
+    "color_palette": [
+      "#c0392b",
+      "#1a1a1a",
+      "#d4a745",
+      "#f5f0e8",
+      "#5d3a1a"
+    ],
+    "preview_image": "/images/previews/chinese-traditional.png",
+    "reference_images": [],
+    "difficulty": "medium"
+  },
+  {
+    "id": "y2k-retro",
+    "name_zh": "千禧Y2K风",
+    "name_en": "Y2K Retro",
+    "category": "xiaohongshu",
+    "subcategory": "trending",
+    "tags": [
+      "Y2K",
+      "千禧",
+      "未来复古",
+      "y2k",
+      "retro-future"
+    ],
+    "description_zh": "回潮2000年代早期的科技乐观美学。以金属渐变、透明塑料质感、泡泡字体和荧光色为标志，充满未来主义的怀旧感。2024-2025年最火爆的复古潮流之一，深受年轻人喜爱。",
+    "description_en": "A revival of early 2000s techno-optimism aesthetics. Defined by metallic gradients, translucent plastic textures, bubble fonts, and fluorescent colors with futuristic nostalgia. One of the hottest retro trends of 2024-2025, hugely popular among young audiences.",
+    "prompt": "Create a Xiaohongshu cover image in Y2K retro style from the early 2000s. Use chrome metallic gradients, iridescent holographic surfaces, and translucent bubbly textures throughout. The color palette should be bold and techno-futuristic — hot pink, electric blue, lime green, silver chrome, and lavender. Typography should feature bubbly, inflated 3D letterforms with glossy metallic or gel-like finishes. Include Y2K-era motifs: butterfly graphics, star shapes, flip phone icons, CD/disc elements, or early internet emoticons. Add lens flare effects, holographic rainbow streaks, and sparkle/glitter accents. Backgrounds can feature abstract techno patterns, circuit-like lines, or gradient mesh. Everything should look shiny, plastic, and optimistically futuristic. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel playful, glossy, and unapologetically maximalist — capturing the digital optimism of the millennium.",
+    "prompt_tips": "金属渐变（chrome gradient）和全息质感（holographic）是Y2K的灵魂。泡泡字体用'inflated 3D bubble letters'描述最准确。加入蝴蝶、星星、CD等经典元素增加时代感。",
+    "best_for": [
+      "时尚穿搭",
+      "美妆种草",
+      "娱乐内容",
+      "潮流文化"
+    ],
+    "use_cases": [
+      "穿搭",
+      "美妆护肤",
+      "ACG/二次元",
+      "生活方式"
+    ],
+    "color_palette": [
+      "#ff69b4",
+      "#00bfff",
+      "#c0c0c0",
+      "#adff2f",
+      "#9b59b6"
+    ],
+    "preview_image": "/images/previews/y2k-retro.png",
+    "reference_images": [],
+    "difficulty": "medium"
+  },
+  {
+    "id": "watercolor-wash",
+    "name_zh": "水彩晕染风",
+    "name_en": "Watercolor Wash",
+    "category": "xiaohongshu",
+    "subcategory": "trending",
+    "tags": [
+      "水彩",
+      "晕染",
+      "柔和",
+      "watercolor",
+      "soft",
+      "wash"
+    ],
+    "description_zh": "模拟水彩颜料在湿纸上自然晕染的柔美效果。色彩之间自然渗透融合，边缘柔和模糊，带有纸张纹理和水渍痕迹。给人温柔治愈的艺术感受，适合生活美学和文艺类内容。",
+    "description_en": "Simulates the soft effect of watercolor paint naturally bleeding on wet paper. Colors bleed and merge organically with soft fuzzy edges, paper texture, and water stain marks. Conveys a gentle, healing artistic feel, perfect for lifestyle aesthetics and literary content.",
+    "prompt": "Create a Xiaohongshu cover image with a watercolor wash aesthetic. The background should feature soft, flowing watercolor washes that bleed and blend naturally — as if painted on cold-pressed watercolor paper. Use a harmonious palette of 3-4 soft, translucent colors that overlap and create beautiful intermediate hues where they meet. Visible watercolor textures are essential: wet-on-wet blooms, soft edges, pigment granulation, and subtle water tide marks. The white of the paper should show through in places, creating breathing room. Text should be in a refined serif or elegant handwritten font, positioned on lighter areas for readability. Include subtle botanical watercolor illustrations (flowers, leaves) or abstract color pools as decorative elements. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel gentle, artistic, and organically beautiful — like a page from a watercolor sketchbook.",
+    "prompt_tips": "指定'wet-on-wet technique'和'cold-pressed paper texture'效果更真实。颜色选择邻近色系（如粉+紫+蓝）晕染更自然。留出纸张白底的区域放文字。",
+    "best_for": [
+      "生活美学",
+      "花艺分享",
+      "读书感悟",
+      "手作记录"
+    ],
+    "use_cases": [
+      "生活方式",
+      "读书笔记",
+      "美食",
+      "美妆护肤"
+    ],
+    "color_palette": [
+      "#e8b4c8",
+      "#a8d8ea",
+      "#d4a5e5",
+      "#f7e7ce",
+      "#ffffff"
+    ],
+    "preview_image": "/images/previews/watercolor-wash.png",
+    "reference_images": [],
+    "difficulty": "easy"
+  },
+  {
+    "id": "comic-pop-art",
+    "name_zh": "漫画波普风",
+    "name_en": "Comic Pop Art",
+    "category": "xiaohongshu",
+    "subcategory": "trending",
+    "tags": [
+      "波普",
+      "漫画",
+      "对话框",
+      "pop-art",
+      "comic",
+      "dots"
+    ],
+    "description_zh": "融合美式漫画和波普艺术的高能视觉风格。以Ben-Day圆点网格、粗黑轮廓线、漫画对话气泡和饱和原色为标志，画面充满冲击力和趣味性。适合娱乐、种草和创意表达类内容。",
+    "description_en": "A high-energy visual style fusing American comics with pop art. Defined by Ben-Day dot grids, thick black outlines, comic speech bubbles, and saturated primary colors. Full of visual impact and fun, ideal for entertainment, product reviews, and creative expression content.",
+    "prompt": "Create a Xiaohongshu cover image in comic pop art style inspired by Roy Lichtenstein and classic American comics. Feature bold Ben-Day halftone dot patterns as background fills in primary colors — red, yellow, blue. All visual elements should have thick black outlines (3-5px weight) with flat, saturated color fills. Include comic book elements: speech bubbles with bold text, action words (like 'WOW!' or 'BOOM!') in explosive starburst shapes, and speed lines for dynamic energy. The main subject should be rendered in a comic illustration style with heavy inking. Use a limited palette of pure primary and secondary colors with no subtle gradients — only flat fills and dot patterns. Add a thick black border panel frame around the composition. Content topic: [YOUR TOPIC]. Aspect ratio 3:4, 1080x1440px. The design should feel bold, energetic, and eye-catching — like a frame ripped from a graphic novel.",
+    "prompt_tips": "Ben-Day圆点是波普风的灵魂，一定要加'halftone dot pattern'。粗黑描边（thick black outlines）让画面更有漫画感。对话气泡里的文字用全大写更有冲击力。",
+    "best_for": [
+      "娱乐内容",
+      "产品种草",
+      "创意表达",
+      "趣味科普"
+    ],
+    "use_cases": [
+      "产品展示",
+      "ACG/二次元",
+      "科普知识",
+      "生活方式"
+    ],
+    "color_palette": [
+      "#ff0000",
+      "#ffdd00",
+      "#0066ff",
+      "#ffffff",
+      "#000000"
+    ],
+    "preview_image": "/images/previews/comic-pop-art.png",
+    "reference_images": [],
+    "difficulty": "medium"
   },
   {
     "id": "action-figure",

@@ -51,17 +51,17 @@ export function StyleDetailModal({ style, onClose, isFavorite, onToggleFavorite 
       </button>
 
       {/* Preview image */}
-      <div className="relative aspect-[4/3] w-full overflow-hidden">
+      <div className="relative flex w-full items-center justify-center overflow-hidden bg-gray-100 dark:bg-gray-900">
         {!imgError ? (
           <img
             src={style.preview_image}
             alt={`${style.name_zh} preview`}
-            className="h-full w-full object-cover"
+            className="max-h-[60vh] w-auto max-w-full object-contain"
             onError={() => setImgError(true)}
           />
         ) : (
           <div
-            className="flex h-full w-full items-center justify-center"
+            className="flex aspect-[3/4] w-full items-center justify-center"
             style={{ backgroundColor: primaryColor }}
           >
             <span className="text-2xl font-bold text-white drop-shadow-md">
@@ -207,7 +207,7 @@ export function StyleDetailModal({ style, onClose, isFavorite, onToggleFavorite 
     <Modal open={!!style} onClose={onClose}>
       {isDesktop ? (
         /* Desktop: side panel */
-        <div className="fixed inset-y-0 right-0 w-[600px] animate-slide-in-right bg-white shadow-2xl dark:bg-gray-950">
+        <div className="fixed inset-y-0 right-0 w-[420px] animate-slide-in-right bg-white shadow-2xl dark:bg-gray-950">
           {content}
         </div>
       ) : (

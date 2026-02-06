@@ -32,7 +32,62 @@ const topicMap = {
   'coloring-page': 'an intricate mandala-inspired garden scene with flowers, butterflies, and a peaceful fountain',
   'crystal-ball': 'a magical winter village scene with tiny snow-covered houses inside a crystal snow globe',
   'scientific': 'botanical illustration of a blooming magnolia branch with cross-section details and Latin labels',
-  'sketch-notes': 'a visual summary of 5 morning productivity habits with icons, arrows, and hand-lettered headers'
+  'sketch-notes': 'a visual summary of 5 morning productivity habits with icons, arrows, and hand-lettered headers',
+
+  // === New xiaohongshu styles (42) ===
+  // minimal-design
+  'wabi-sabi': 'a quiet tea ceremony with handmade pottery on a weathered wooden table, embracing natural imperfections',
+  'muji-style': 'an organized minimalist desk setup with natural wood, white stationery, and a simple indoor plant',
+  'glass-morphism': 'a weather app dashboard with frosted glass cards showing temperature and forecast icons',
+  'line-art-minimal': '5 daily wellness habits illustrated with continuous single-line drawings and brief text labels',
+  'scandinavian': 'a cozy hygge living room with light wood furniture, sheepskin throws, and candlelight',
+  'paper-cutout': 'a Chinese Mid-Autumn Festival celebration with layered paper-cut moon, lanterns, and rabbits',
+  'negative-space': 'a creative coffee cup silhouette revealing a cityscape morning scene within the negative space',
+
+  // color-palette
+  'sakura-pink': 'a spring hanami picnic under cherry blossom trees with delicate pink pastries and matcha drinks',
+  'ice-blue': 'a refreshing summer skincare routine featuring glacier-blue serums and crystal-clear water drops',
+  'matcha-green': 'a serene Japanese matcha cafe interior with bamboo details and freshly whisked matcha latte',
+  'sunset-gradient': 'a breathtaking seaside sunset view from a cliffside restaurant with warm orange-purple sky',
+  'lavender-haze': 'a dreamy Provence lavender field at golden hour with a vintage bicycle and wicker basket',
+  'cyberpunk-neon': 'a futuristic Tokyo street at night with holographic signs, neon reflections on wet pavement',
+  'milk-tea-tone': 'an aesthetic cafe flat-lay with milk tea, croissants, a book, and dried flowers on linen',
+
+  // 3d-effects
+  '3d-glass': 'a transparent glass smartphone floating in space with colorful app icons visible through the crystal-clear material',
+  '3d-inflated': '5 productivity tips with puffy inflated balloon-like 3D text and soft rounded icons floating on a pastel gradient',
+  '3d-low-poly': 'a geometric low-poly mountain landscape with a deer and aurora borealis in the night sky',
+  '3d-candy': 'a collection of glossy candy-textured beauty products like lipstick, compact, and perfume bottle',
+  '3d-metallic': 'a luxury chrome and gold 3D typography spelling STYLE with liquid metal reflections',
+  '3d-miniature-world': 'a miniature tilt-shift Japanese zen garden on a floating island with tiny bonsai and stone paths',
+  '3d-neon-glow': 'a glowing neon sign spelling OPEN on a dark brick wall with pink and blue tube lighting',
+
+  // info-display
+  'mind-map': 'a visual mind map of healthy morning routine habits branching from a central wellness icon',
+  'xhs-recipe-card': 'a structured recipe card for making perfect Japanese fluffy pancakes with step-by-step photos',
+  'swot-matrix': 'a 2x2 matrix comparing four popular programming languages by ease-of-learning and job-market demand',
+  'data-story': 'a narrative visualization of global coffee consumption trends over the past decade with charts and icons',
+  'flowchart-process': 'a clear step-by-step skincare routine flowchart from cleansing to sunscreen application',
+  'rating-scorecard': 'a detailed product review scorecard for a noise-canceling headphone with star ratings across 5 categories',
+  'stat-counter': 'a year-in-review summary with big bold numbers: books read, km walked, recipes tried, countries visited',
+
+  // photo-mood
+  'film-diary': 'a weekend trip diary with Polaroid-style photos of a coastal town, handwritten dates and tiny captions',
+  'light-and-shadow': 'dramatic window light casting geometric shadows on a minimalist breakfast table with coffee and croissant',
+  'drone-aerial': 'a stunning birds-eye view of colorful autumn forest with a winding river cutting through',
+  'golden-hour': 'a warm golden hour portrait session at a sunflower field with soft lens flare',
+  'rain-mood': 'a cozy rainy afternoon scene through a foggy cafe window with rain droplets and warm interior lighting',
+  'mirror-reflection': 'a perfect symmetrical reflection of a traditional Japanese temple in a still pond at dawn',
+  'bokeh-dreamy': 'a close-up of a hand holding a sparkler at dusk with beautiful circular bokeh lights in background',
+
+  // trending
+  'xhs-pixel-art': 'a cozy pixel art coffee shop scene with a barista making latte art and warm interior glow',
+  'risograph': 'a vibrant risograph-printed poster of a farmer market scene with misregistered ink layers in orange and teal',
+  'brutalist': 'a raw brutalist design poster for a tech conference with bold monospaced type and stark black-white contrast',
+  'chinese-traditional': 'a modern Chinese New Year celebration poster blending traditional paper lanterns with contemporary typography',
+  'y2k-retro': 'a nostalgic Y2K-style flip phone advertisement with chrome text, star graphics, and iridescent butterfly clips',
+  'watercolor-wash': 'a gentle watercolor painting of a cozy bookshop interior with soft washes of warm amber and sage green',
+  'comic-pop-art': 'a pop art style food review panel with halftone dots, bold outlines, and comic speech bubbles saying DELICIOUS'
 };
 
 async function generate() {
@@ -83,7 +138,7 @@ async function generate() {
   }
 
   console.log(`\n=== DONE ===`);
-  console.log(`Success: ${results.success.length}/24`);
+  console.log(`Success: ${results.success.length}/${data.length}`);
   console.log(`Failed: ${results.failed.length} ${results.failed.length > 0 ? results.failed.join(', ') : ''}`);
 }
 
