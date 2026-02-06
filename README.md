@@ -31,14 +31,10 @@
 ## 快速开始
 
 ```bash
-# 安装依赖
+git clone https://github.com/cloveric/xhs-style-gallery.git
+cd xhs-style-gallery
 npm install
-
-# 启动开发服务器
 npm run dev
-
-# 构建生产版本
-npm run build
 ```
 
 ## 技术栈
@@ -64,13 +60,54 @@ xhs-style-gallery/
 │   ├── hooks/                 # 自定义hooks (5个)
 │   ├── components/            # UI组件 (15个)
 │   └── App.tsx                # 根组件
+├── scripts/
+│   ├── awe-gemini-web/       # Gemini Web图片生成技能
+│   ├── batch-generate.js     # 批量生成预览图
+│   └── retry-failed.js       # 重试失败生成
 ├── CLAUDE.md                  # Claude Code项目指南
 └── TODO.md                    # 待办事项和优化计划
 ```
 
 ## 预览图生成
 
-所有115张预览图均由 **Google Gemini 3 Pro** 通过 `awe-gemini-web` 技能生成。每种风格的 prompt 字段包含 `[YOUR TOPIC]` 占位符，用户可替换为实际主题后直接在 Gemini 中使用。
+所有115张预览图均由 **Google Gemini 3 Pro** 通过 `awe-gemini-web` 技能生成。生成工具已包含在 `scripts/` 目录中。
+
+### 生成新风格的预览图
+
+```bash
+# 1. 安装 bun (如果未安装)
+npm install -g bun
+
+# 2. 首次使用需登录 Google 账号（会打开 Chrome 浏览器）
+bun scripts/awe-gemini-web/scripts/main.ts --login
+
+# 3. 生成单张图片
+bun scripts/awe-gemini-web/scripts/main.ts -p "你的提示词" --image public/images/previews/style-name.png -m gemini-3-pro
+
+# 4. 批量生成所有缺失的预览图
+node scripts/batch-generate.js
+
+# 5. 重试失败的生成（编辑 retry-failed.js 中的列表）
+node scripts/retry-failed.js
+```
+
+### scripts/ 目录说明
+
+| 文件 | 用途 |
+|------|------|
+| `awe-gemini-web/` | Gemini Web API 图片生成技能（反向工程，非官方API） |
+| `batch-generate.js` | 批量为 styles.json 中的风格生成预览图 |
+| `retry-failed.js` | 用简化prompt重试失败的图片生成 |
+
+> **注意**: `awe-gemini-web` 使用反向工程的 Gemini Web API，非 Google 官方 API。需要 Google 账号登录，cookies 缓存在本地 `%APPDATA%` 目录中（不会上传到仓库）。
+
+## 常用命令
+
+```bash
+npm run dev      # 启动开发服务器
+npm run build    # TypeScript 类型检查 + 生产构建
+npm run preview  # 预览生产构建
+```
 
 ## License
 
