@@ -23,7 +23,11 @@ export function useFavorites() {
       } else {
         next.add(id);
       }
-      localStorage.setItem(STORAGE_KEY, JSON.stringify([...next]));
+      try {
+        localStorage.setItem(STORAGE_KEY, JSON.stringify([...next]));
+      } catch {
+        // Ignore storage write errors (quota, privacy mode, etc.)
+      }
       return next;
     });
   }, []);

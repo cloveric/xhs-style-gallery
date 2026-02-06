@@ -5,8 +5,12 @@ type Theme = 'light' | 'dark';
 const STORAGE_KEY = 'xhs-gallery-theme';
 
 function getInitialTheme(): Theme {
-  const stored = localStorage.getItem(STORAGE_KEY);
-  if (stored === 'light' || stored === 'dark') return stored;
+  try {
+    const stored = localStorage.getItem(STORAGE_KEY);
+    if (stored === 'light' || stored === 'dark') return stored;
+  } catch {
+    // Ignore storage read errors (privacy mode, blocked storage, etc.)
+  }
   return window.matchMedia('(prefers-color-scheme: dark)').matches
     ? 'dark'
     : 'light';
@@ -22,7 +26,11 @@ export function useTheme() {
     } else {
       root.classList.remove('dark');
     }
-    localStorage.setItem(STORAGE_KEY, theme);
+    try {
+      localStorage.setItem(STORAGE_KEY, theme);
+    } catch {
+      // Ignore storage write errors (quota, privacy mode, etc.)
+    }
   }, [theme]);
 
   const toggle = useCallback(() => {

@@ -36,9 +36,15 @@ export default function App() {
   const handleFilterChange = useCallback((update: Partial<FilterState>) => {
     setFilterState((prev) => {
       const next = { ...prev, ...update };
-      // Reset subcategory when category changes
+      // Reset dependent filters when category changes to avoid "invisible filters".
       if (update.category !== undefined && update.subcategory === undefined) {
         next.subcategory = 'all';
+      }
+      if (update.category !== undefined && update.useCase === undefined) {
+        next.useCase = 'all';
+      }
+      if (update.category !== undefined && update.selectedTags === undefined) {
+        next.selectedTags = [];
       }
       return next;
     });

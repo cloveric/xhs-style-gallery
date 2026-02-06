@@ -158,6 +158,7 @@ node scripts/retry-failed.js
 | 命令 | 说明 |
 |------|------|
 | `npm run dev` | 启动开发服务器 |
+| `npm run lint` | ESLint 检查 |
 | `npm run build` | TypeScript 类型检查 + 生产构建 |
 | `npm run preview` | 预览生产构建 |
 

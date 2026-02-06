@@ -25,16 +25,16 @@
 - [ ] body scroll lock增加ref计数器防止泄漏
 
 ### 过滤器状态重置
-- [ ] 切换分类时重置 useCase 为 'all' 和 selectedTags 为 []
-- [ ] 当前只重置了 subcategory，useCase和tags会变成隐形过滤器
+- [x] 切换分类时重置 useCase 为 'all' 和 selectedTags 为 []
+- [x] 当前只重置了 subcategory，useCase和tags会变成隐形过滤器
 
 ---
 
 ## P1 - 尽快修复
 
 ### 代码健壮性
-- [ ] `useFavorites.ts:26` — localStorage.setItem 包裹 try/catch
-- [ ] `useTheme.ts:8,25` — localStorage 操作包裹 try/catch
+- [x] `useFavorites.ts:26` — localStorage.setItem 包裹 try/catch
+- [x] `useTheme.ts:8,25` — localStorage 操作包裹 try/catch
 - [ ] `StyleCard` 添加 React.memo() + 稳定化回调props
 - [ ] `App.tsx:30-34` selectedStyle 查找包裹 useMemo
 
@@ -82,7 +82,7 @@
 - [ ] "按场景"标签改为双语"按场景 / By Use Case"
 - [ ] 收藏切换保留当前过滤器（或恢复之前的状态）
 - [ ] Masonry添加768px断点优化平板体验
-- [ ] 添加ESLint配置文件
+- [x] 添加ESLint配置文件
 - [ ] Fuse.js minMatchCharLength 改为 2
 
 ---

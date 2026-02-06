@@ -52,6 +52,7 @@ src/
 
 - **Tailwind v4**: 不要创建 tailwind.config.js，主题变量在 `index.css` 的 `@theme` 块定义
 - **深色模式**: 通过 `<html>` 上的 `.dark` class 切换，组件用 `dark:` 前缀
+- **ESLint v9**: 使用 `eslint.config.js` (flat config)，默认忽略 `scripts/`（避免把生成脚本当应用代码检查）
 - **类型安全**: 项目零 `any`，JSON导入用 `as StyleTemplate[]` 断言
 - **过滤器流水线**: Favorites → Search (Fuse.js) → Category → Subcategory → UseCase → Tags
 - **子分类有效值**: 见 `categories.ts` 中的 `subcategories` 数组
@@ -61,6 +62,7 @@ src/
 
 ```bash
 npm run dev      # 开发服务器
+npm run lint     # ESLint 检查
 npm run build    # TypeScript检查 + 生产构建
 npm run preview  # 预览生产构建
 ```
@@ -80,5 +82,4 @@ npm run preview  # 预览生产构建
 - 图片未压缩（179MB PNG），需转WebP+缩略图
 - styles.json内联在JS bundle中（占44.8%），需分包
 - Modal缺少焦点陷阱
-- 切换分类后useCase/selectedTags未重置
 - reference_images全部为空
