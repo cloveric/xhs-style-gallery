@@ -2,7 +2,7 @@
 
 ## 项目概述
 
-小红书风格模板库 — 帮助用户在使用 Nano Banana Pro (Google Gemini) 生成小红书图文内容时，快速找到合适的风格 Prompt。125种AI生成风格模板，含预览图、中英文描述、可复制Prompt。
+小红书风格模板库 — 帮助用户在使用 Nano Banana Pro (Google Gemini) 生成小红书图文内容时，快速找到合适的风格 Prompt。115种AI生成风格模板，含预览图、中英文描述、可复制Prompt。
 
 ## 技术栈
 
@@ -22,7 +22,7 @@ src/
 ├── types/style.ts             # 核心类型定义
 ├── data/
 │   ├── categories.ts          # 3主分类 + 18子分类元数据
-│   └── styles.json            # 125条风格数据（286KB）
+│   └── styles.json            # 115条风格数据（264KB）
 ├── hooks/
 │   ├── useStyles.ts           # 过滤/搜索核心逻辑
 │   ├── useFavorites.ts        # localStorage收藏
